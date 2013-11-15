@@ -1,0 +1,44 @@
+/*
+  ClockTHREE Test6 Text
+  scroll some text
+
+  Justin Shaw Dec 9, 2010
+  
+  Licenced under Creative Commons Attribution.
+  Attribution 3.0
+ */
+
+#include "ClockTHREE.h"
+#include "SPI.h"
+#include <avr/pgmspace.h>
+
+ClockTHREE c3 = ClockTHREE();
+uint32_t *display = (uint32_t*)calloc(N_COL, sizeof(uint32_t));
+
+void setup(){
+  c3.init();
+  c3.setdisplay(display);
+}
+
+uint32_t count = 0;
+uint8_t color_i = 0;
+const int hold = 300;
+int myx = 0;
+void loop(){
+  uint8_t c;
+  if(count % hold == 0){
+    // display = font8x8 + count / hold;
+    myx++;
+    for(int i = 0; i < 16; i++){
+      display[i] = 0;
+      c = pgm_read_byte(font8x8 + (myx + i) % (8*N_CHAR));
+      for(int k = 0; k < 8; k++){
+	if(c & (1 << k)){
+	  display[i] |= (uint32_t)0b110 << (3 * k + 0);
+	}
+      }
+    }
+  }
+  count++;
+  c3.refresh();
+}

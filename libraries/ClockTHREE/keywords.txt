@@ -1,0 +1,31 @@
+#######################################
+# Syntax Coloring Map For ClockTWO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+####################################### 
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+clear		KEYWORD2
+init		KEYWORD2
+refresh		KEYWORD2
+refreshfast	KEYWORD2
+getpoint	KEYWORD2 
+setpoint	KEYWORD2
+setcol 		KEYWORD2
+line		KEYWORD2
+moveto		KEYWORD2
+lineto		KEYWORD2
+setdisplay	KEYWORD2
+displayfill	KEYWORD2
+
+#######################################
+# Instances (KEYWORD2)
+#######################################
+
+ClockTHREE		KEYWORD2
+
