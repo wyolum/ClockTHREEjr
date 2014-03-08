@@ -1,0 +1,15 @@
+### Module positions - created on 3/12/2012 5:52:08 PM ###
+### Printed by Pcbnew version pcbnew (2011-12-28 BZR 3254)-stable
+## Unit = inches, Angle = deg.
+## Side : Back
+# Ref    Val                  PosX       PosY        Rot     Side
+K3       7Seg_Sel             5.2275     9.2775      90.0    Back
+P7       FTDI                 1.7500     9.5000       0.0    Back
+R34      2k                   4.5000     1.5100      90.0    Back
+SW12     INC                  3.3000     1.4000     270.0    Back
+SW22     DEC                  2.7000     1.4000     270.0    Back
+SW32     MODE                 2.1000     1.4000     270.0    Back
+SW42     RST                  1.5000     1.4000     270.0    Back
+SW52     ENTER                3.9000     1.4000     270.0    Back
+U6       DS3231N              6.3375     1.8525      90.0    Back
+## End

@@ -1,0 +1,282 @@
+PCBNEW-LibDoc----V1  04/29/11 19:36:15
+#
+$MODULE Volt Reg 78xx
+Li Volt Reg 78xx
+Cd TO220, 2 pins, horizontal
+$EndMODULE
+#
+$MODULE Volt Reg 78xx
+Li Volt Reg 78xx
+Cd TO220, 2 pins, horizontal
+$EndMODULE
+#
+$MODULE Volt Reg 78xx
+Li Volt Reg 78xx
+Cd TO220, 2 pins, horizontal
+$EndMODULE
+#
+$MODULE Volt Reg 78xx
+Li Volt Reg 78xx
+Cd TO220, 2 pins, horizontal
+$EndMODULE
+#
+$MODULE BUZZER
+Li BUZZER
+Cd BUZZER
+Kw BUZZER
+$EndMODULE
+#
+$MODULE C1-1
+Li C1-1
+Cd Condensateur e = 1 ou 2 pas
+Kw C
+$EndMODULE
+#
+$MODULE C2V8
+Li C2V8
+Cd Condensateur polarise
+Kw CP
+$EndMODULE
+#
+$MODULE cnp_3mm_disc
+Li cnp_3mm_disc
+Cd Small ceramic capacitor
+Kw C
+$EndMODULE
+#
+$MODULE cnp_6mm_disc
+Li cnp_6mm_disc
+Cd 6mm disc ceramic capacitor
+Kw C
+$EndMODULE
+#
+$MODULE DS3231
+Li DS3231
+Cd Module CMS SOJ 16 pins tres large
+Kw CMS SOJ
+$EndMODULE
+#
+$MODULE PROTO-6
+Li PROTO-6
+Cd 6 pins DIL package, round pads
+Kw DIL
+$EndMODULE
+#
+$MODULE 01D01
+Li 01D01
+Cd 10mm RGB LED
+Kw led
+$EndMODULE
+#
+$MODULE SW-PB
+Li SW-PB
+Cd PCB pushbutton, Tyco FSM6x6 series
+Kw pushbutton
+$EndMODULE
+#
+$MODULE vite_2mm5
+Li vite_2mm5
+Cd vite 2,5mm
+$EndMODULE
+#
+$MODULE vite_3mm
+Li vite_3mm
+Cd vite 2,5mm
+$EndMODULE
+#
+$MODULE C1
+Li C1
+Cd Condensateur e = 1 pas
+Kw C
+$EndMODULE
+#
+$MODULE diode_do41
+Li diode_do41
+Cd Diode, DO-41 package
+$EndMODULE
+#
+$MODULE diode_do35
+Li diode_do35
+Cd Diode, DO-35 package
+$EndMODULE
+#
+$MODULE dil_28-300_socket
+Li dil_28-300_socket
+Cd IC, DIL28 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE DIP-24__600_ELL
+Li DIP-24__600_ELL
+Cd 24 pins DIL package, elliptical pads
+Kw DIL
+$EndMODULE
+#
+$MODULE led_5mm_blue
+Li led_5mm_blue
+Cd 5mm clear led
+Kw led
+$EndMODULE
+#
+$MODULE led_5mm_clear
+Li led_5mm_clear
+Cd 5mm clear led
+Kw led
+$EndMODULE
+#
+$MODULE led_10mm_blue
+Li led_10mm_blue
+Cd 5mm yellow led
+Kw led
+$EndMODULE
+#
+$MODULE led_10mm_yellow
+Li led_10mm_yellow
+Cd 5mm yellow led
+Kw led
+$EndMODULE
+#
+$MODULE RC03
+Li RC03
+Cd Resistor, RC03
+Kw R
+$EndMODULE
+#
+$MODULE SCK-24_600_ELL
+Li SCK-24_600_ELL
+Cd 24 pins DIL package, elliptical pads
+Kw DIL
+$EndMODULE
+#
+$MODULE Speaker
+Li Speaker
+Cd BUZZER
+Kw BUZZER
+$EndMODULE
+#
+$MODULE Volt_Reg_78xx
+Li Volt_Reg_78xx
+Cd TO220, 2 pins, horizontal
+$EndMODULE
+#
+$MODULE XTAL
+Li XTAL
+Cd Condensateur e = 1 ou 2 pas
+Kw C
+$EndMODULE
+#
+$MODULE to92_3
+Li to92_3
+Cd TO92
+$EndMODULE
+#
+$MODULE C2
+Li C2
+Cd Condensateur = 2 pas
+Kw C
+$EndMODULE
+#
+$MODULE pin_sck_4-90
+Li pin_sck_4-90
+Cd Pin strip 4pin 90
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE pin_socket_2
+Li pin_socket_2
+Cd Pin strip 2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE pin_strip_2
+Li pin_strip_2
+Cd Pin strip 2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE pin_strip_3
+Li pin_strip_3
+Cd Pin strip 3pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE pin_strip_3x2
+Li pin_strip_3x2
+Cd Pin strip 3x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE pin_strip_4
+Li pin_strip_4
+Cd Pin strip 4pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE pin_strip_4x2
+Li pin_strip_4x2
+Cd Pin strip 4x2pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE pin_strip_6-90
+Li pin_strip_6-90
+Cd Pin strip 6pin 90
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE pin_strip_8
+Li pin_strip_8
+Cd Pin strip 8pin
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE to92_2N5401
+Li to92_2N5401
+Cd TO92
+$EndMODULE
+#
+$MODULE JACK_ALIM
+Li JACK_ALIM
+Cd module 1 pin (ou trou mecanique de percage)
+Kw CONN JACK
+$EndMODULE
+#
+$MODULE vite_4mm
+Li vite_4mm
+Cd vite 4,0mm
+$EndMODULE
+#
+$MODULE vite_csk_3mm
+Li vite_csk_3mm
+Cd vite 2,5mm
+$EndMODULE
+#
+$MODULE pin_strip_4-90
+Li pin_strip_4-90
+Cd Pin strip 4pin 90
+Kw CONN DEV
+$EndMODULE
+#
+$MODULE CP_5x11mm
+Li CP_5x11mm
+Cd Capacitor, pol, cyl 5x11mm
+$EndMODULE
+#
+$MODULE Pot-Var2
+Li Pot-Var2
+Cd Resistance variable / Potentiometre
+Kw R
+$EndMODULE
+#
+$MODULE dil_16-300_socket
+Li dil_16-300_socket
+Cd IC, DIL16 x 0,3", with socket
+Kw DIL
+$EndMODULE
+#
+$MODULE CR2032
+Li CR2032
+Cd CR2032
+$EndMODULE
+#
+$EndLIBDOC
