@@ -1,0 +1,294 @@
+,,0,1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,,,StartRow,0,0,0,0,0,1,1,1,2,2,2,2,3,3,3,3,4,4,4,5,5,5,5,6,6,6,6,6,7
+NAME_v1,0,D,É,L,U,T,Á,N,É,J,F,É,L,E,S,T,E,,,StartCol,0,0,9,7,12,0,5,11,0,3,8,13,0,4,6,9,0,7,11,0,5,9,14,0,4,4,11,0,7
+,1,H,Á,R,O,M,N,E,G,Y,E,D,T,I,Z,E,N,,,length,3,7,3,5,4,11,6,5,3,5,5,3,4,2,3,5,6,3,3,4,3,4,2,3,4,7,5,7,5
+,2,E,G,Y,K,E,T,T,Ő,H,Á,R,O,M,H,A,T,,,WORDS,del,utan,fel,efel,este, HÁROMNEGYED,negyed,tizen,EGY,KETTO,harum,hat,neggy,ot,het,nyolc,kikenc,tiz ,ORA ,mult,van ,lesz ,ot,tiz,perc,percel,mulva,percen,belul
+,3,N,É,G,Y,Ö,T,H,É,T,N,Y,O,L,C,H,S,,,English translation,noon,afternoon,half,midnight,evening,45 past,quarter,after 10,one,two,three,six,four,five,seven,eight,nine,ten,hour,past,it is,till,til in 5,till in ten,minute,after,after,percel,belul
+,4,K,I,L,E,N,C,O,T,Í,Z,M,Ó,R,A,U,G,,,0:00:00,,,,midnight,,,,,,,,,,,,,,,,,it is
+,5,M,Ú,L,T,L,V,A,N,S,L,E,S,Z,W,Ö,T,,,0:05:00,,,,midnight,,,,,,,,,,,,,,,,past,,,til in 5,,,after
+,6,T,Í,Z,X,P,E,R,C,C,E,L,M,Ú,L,V,A,,,0:10:00,,,,,,,quarter,,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,7,P,E,R,C,E,N,H,B,E,L,Ü,L,U,G,Z,D,,,0:15:00,,,,,,,quarter,,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,0:20:00,,,,,,,quarter,,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,0:25:00,,,half,,,,,,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,0:30:00,,,half,,,,,,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,0:35:00,,,half,,,,,,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,0:40:00,,,,,,45 past,,,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,0:45:00,,,,,,45 past,,,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,0:50:00,,,,,,45 past,,,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,0:55:00,,,,,,,,,one,,,,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,1:00:00,,,,,,,,,one,,,,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,1:05:00,,,,,,,,,one,,,,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,1:10:00,,,,,,,quarter,,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,1:15:00,,,,,,,quarter,,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,1:20:00,,,,,,,quarter,,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,1:25:00,,,half,,,,,,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,1:30:00,,,half,,,,,,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,1:35:00,,,half,,,,,,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,1:40:00,,,,,,45 past,,,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,1:45:00,,,,,,45 past,,,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,1:50:00,,,,,,45 past,,,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,1:55:00,,,,,,,,,,two,,,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,2:00:00,,,,,,,,,,two,,,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,2:05:00,,,,,,,,,,two,,,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,2:10:00,,,,,,,quarter,,,,three,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,2:15:00,,,,,,,quarter,,,,three,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,2:20:00,,,,,,,quarter,,,,three,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,2:25:00,,,half,,,,,,,,three,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,2:30:00,,,half,,,,,,,,three,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,2:35:00,,,half,,,,,,,,three,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,2:40:00,,,,,,45 past,,,,,three,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,2:45:00,,,,,,45 past,,,,,three,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,2:50:00,,,,,,45 past,,,,,three,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,2:55:00,,,,,,,,,,,three,,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,3:00:00,,,,,,,,,,,three,,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,3:05:00,,,,,,,,,,,three,,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,3:10:00,,,,,,,quarter,,,,,,four,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,3:15:00,,,,,,,quarter,,,,,,four,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,3:20:00,,,,,,,quarter,,,,,,four,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,3:25:00,,,half,,,,,,,,,,four,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,3:30:00,,,half,,,,,,,,,,four,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,3:35:00,,,half,,,,,,,,,,four,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,3:40:00,,,,,,45 past,,,,,,,four,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,3:45:00,,,,,,45 past,,,,,,,four,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,3:50:00,,,,,,45 past,,,,,,,four,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,3:55:00,,,,,,,,,,,,,four,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,4:00:00,,,,,,,,,,,,,four,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,4:05:00,,,,,,,,,,,,,four,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,4:10:00,,,,,,,quarter,,,,,,,five,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,4:15:00,,,,,,,quarter,,,,,,,five,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,4:20:00,,,,,,,quarter,,,,,,,five,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,4:25:00,,,half,,,,,,,,,,,five,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,4:30:00,,,half,,,,,,,,,,,five,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,4:35:00,,,half,,,,,,,,,,,five,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,4:40:00,,,,,,45 past,,,,,,,,five,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,4:45:00,,,,,,45 past,,,,,,,,five,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,4:50:00,,,,,,45 past,,,,,,,,five,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,4:55:00,,,,,,,,,,,,,,five,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,5:00:00,,,,,,,,,,,,,,five,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,5:05:00,,,,,,,,,,,,,,five,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,5:10:00,,,,,,,quarter,,,,,six,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,5:15:00,,,,,,,quarter,,,,,six,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,5:20:00,,,,,,,quarter,,,,,six,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,5:25:00,,,half,,,,,,,,,six,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,5:30:00,,,half,,,,,,,,,six,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,5:35:00,,,half,,,,,,,,,six,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,5:40:00,,,,,,45 past,,,,,,six,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,5:45:00,,,,,,45 past,,,,,,six,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,5:50:00,,,,,,45 past,,,,,,six,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,5:55:00,,,,,,,,,,,,six,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,6:00:00,,,,,,,,,,,,six,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,6:05:00,,,,,,,,,,,,six,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,6:10:00,,,,,,,quarter,,,,,,,,seven,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,6:15:00,,,,,,,quarter,,,,,,,,seven,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,6:20:00,,,,,,,quarter,,,,,,,,seven,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,6:25:00,,,half,,,,,,,,,,,,seven,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,6:30:00,,,half,,,,,,,,,,,,seven,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,6:35:00,,,half,,,,,,,,,,,,seven,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,6:40:00,,,,,,45 past,,,,,,,,,seven,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,6:45:00,,,,,,45 past,,,,,,,,,seven,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,6:50:00,,,,,,45 past,,,,,,,,,seven,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,6:55:00,,,,,,,,,,,,,,,seven,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,7:00:00,,,,,,,,,,,,,,,seven,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,7:05:00,,,,,,,,,,,,,,,seven,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,7:10:00,,,,,,,quarter,,,,,,,,,eight,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,7:15:00,,,,,,,quarter,,,,,,,,,eight,,,,,it is
+,,,,,,,,,,,,,,,,,,,,7:20:00,,,,,,,quarter,,,,,,,,,eight,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,7:25:00,,,half,,,,,,,,,,,,,eight,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,7:30:00,,,half,,,,,,,,,,,,,eight,,,,,it is
+,,,,,,,,,,,,,,,,,,,,7:35:00,,,half,,,,,,,,,,,,,eight,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,7:40:00,,,,,,45 past,,,,,,,,,,eight,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,7:45:00,,,,,,45 past,,,,,,,,,,eight,,,,,it is
+,,,,,,,,,,,,,,,,,,,,7:50:00,,,,,,45 past,,,,,,,,,,eight,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,7:55:00,,,,,,,,,,,,,,,,eight,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,8:00:00,,,,,,,,,,,,,,,,eight,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,8:05:00,,,,,,,,,,,,,,,,eight,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,8:10:00,,,,,,,quarter,,,,,,,,,,nine,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,8:15:00,,,,,,,quarter,,,,,,,,,,nine,,,,it is
+,,,,,,,,,,,,,,,,,,,,8:20:00,,,,,,,quarter,,,,,,,,,,nine,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,8:25:00,,,half,,,,,,,,,,,,,,nine,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,8:30:00,,,half,,,,,,,,,,,,,,nine,,,,it is
+,,,,,,,,,,,,,,,,,,,,8:35:00,,,half,,,,,,,,,,,,,,nine,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,8:40:00,,,,,,45 past,,,,,,,,,,,nine,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,8:45:00,,,,,,45 past,,,,,,,,,,,nine,,,,it is
+,,,,,,,,,,,,,,,,,,,,8:50:00,,,,,,45 past,,,,,,,,,,,nine,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,8:55:00,,,,,,,,,,,,,,,,,nine,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,9:00:00,,,,,,,,,,,,,,,,,nine,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,9:05:00,,,,,,,,,,,,,,,,,nine,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,9:10:00,,,,,,,quarter,,,,,,,,,,,ten,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,9:15:00,,,,,,,quarter,,,,,,,,,,,ten,,,it is
+,,,,,,,,,,,,,,,,,,,,9:20:00,,,,,,,quarter,,,,,,,,,,,ten,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,9:25:00,,,half,,,,,,,,,,,,,,,ten,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,9:30:00,,,half,,,,,,,,,,,,,,,ten,,,it is
+,,,,,,,,,,,,,,,,,,,,9:35:00,,,half,,,,,,,,,,,,,,,ten,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,9:40:00,,,,,,45 past,,,,,,,,,,,,ten,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,9:45:00,,,,,,45 past,,,,,,,,,,,,ten,,,it is
+,,,,,,,,,,,,,,,,,,,,9:50:00,,,,,,45 past,,,,,,,,,,,,ten,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,9:55:00,,,,,,,,,,,,,,,,,,ten,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,10:00:00,,,,,,,,,,,,,,,,,,ten,hour,,it is
+,,,,,,,,,,,,,,,,,,,,10:05:00,,,,,,,,,,,,,,,,,,ten,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,10:10:00,,,,,,,quarter,after 10,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,10:15:00,,,,,,,quarter,after 10,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,10:20:00,,,,,,,quarter,after 10,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,10:25:00,,,half,,,,,after 10,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,10:30:00,,,half,,,,,after 10,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,10:35:00,,,half,,,,,after 10,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,10:40:00,,,,,,45 past,,after 10,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,10:45:00,,,,,,45 past,,after 10,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,10:50:00,,,,,,45 past,,after 10,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,10:55:00,,,,,,,,after 10,one,,,,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,11:00:00,,,,,,,,after 10,one,,,,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,11:05:00,,,,,,,,after 10,one,,,,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,11:10:00,,,,,,,quarter,after 10,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,11:15:00,,,,,,,quarter,after 10,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,11:20:00,,,,,,,quarter,after 10,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,11:25:00,,,half,,,,,after 10,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,11:30:00,,,half,,,,,after 10,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,11:35:00,,,half,,,,,after 10,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,11:40:00,,,,,,45 past,,after 10,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,11:45:00,,,,,,45 past,,after 10,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,11:50:00,,,,,,45 past,,after 10,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,11:55:00,noon,,,,,,,,,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,12:00:00,noon,,,,,,,,,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,12:05:00,noon,,,,,,,,,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,12:10:00,,afternoon,,,,,quarter,,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,12:15:00,,afternoon,,,,,quarter,,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,12:20:00,,afternoon,,,,,quarter,,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,12:25:00,,afternoon,half,,,,,,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,12:30:00,,afternoon,half,,,,,,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,12:35:00,,afternoon,half,,,,,,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,12:40:00,,afternoon,,,,45 past,,,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,12:45:00,,afternoon,,,,45 past,,,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,12:50:00,,afternoon,,,,45 past,,,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,12:55:00,,afternoon,,,,,,,one,,,,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,13:00:00,,afternoon,,,,,,,one,,,,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,13:05:00,,afternoon,,,,,,,one,,,,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,13:10:00,,afternoon,,,,,quarter,,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,13:15:00,,afternoon,,,,,quarter,,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,13:20:00,,afternoon,,,,,quarter,,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,13:25:00,,afternoon,half,,,,,,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,13:30:00,,afternoon,half,,,,,,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,13:35:00,,afternoon,half,,,,,,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,13:40:00,,afternoon,,,,45 past,,,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,13:45:00,,afternoon,,,,45 past,,,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,13:50:00,,afternoon,,,,45 past,,,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,13:55:00,,afternoon,,,,,,,,two,,,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,14:00:00,,afternoon,,,,,,,,two,,,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,14:05:00,,afternoon,,,,,,,,two,,,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,14:10:00,,afternoon,,,,,quarter,,,,three,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,14:15:00,,afternoon,,,,,quarter,,,,three,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,14:20:00,,afternoon,,,,,quarter,,,,three,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,14:25:00,,afternoon,half,,,,,,,,three,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,14:30:00,,afternoon,half,,,,,,,,three,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,14:35:00,,afternoon,half,,,,,,,,three,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,14:40:00,,afternoon,,,,45 past,,,,,three,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,14:45:00,,afternoon,,,,45 past,,,,,three,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,14:50:00,,afternoon,,,,45 past,,,,,three,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,14:55:00,,afternoon,,,,,,,,,three,,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,15:00:00,,afternoon,,,,,,,,,three,,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,15:05:00,,afternoon,,,,,,,,,three,,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,15:10:00,,afternoon,,,,,quarter,,,,,,four,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,15:15:00,,afternoon,,,,,quarter,,,,,,four,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,15:20:00,,afternoon,,,,,quarter,,,,,,four,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,15:25:00,,afternoon,half,,,,,,,,,,four,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,15:30:00,,afternoon,half,,,,,,,,,,four,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,15:35:00,,afternoon,half,,,,,,,,,,four,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,15:40:00,,afternoon,,,,45 past,,,,,,,four,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,15:45:00,,afternoon,,,,45 past,,,,,,,four,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,15:50:00,,afternoon,,,,45 past,,,,,,,four,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,15:55:00,,afternoon,,,,,,,,,,,four,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,16:00:00,,afternoon,,,,,,,,,,,four,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,16:05:00,,afternoon,,,,,,,,,,,four,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,16:10:00,,afternoon,,,,,quarter,,,,,,,five,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,16:15:00,,afternoon,,,,,quarter,,,,,,,five,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,16:20:00,,afternoon,,,,,quarter,,,,,,,five,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,16:25:00,,afternoon,half,,,,,,,,,,,five,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,16:30:00,,afternoon,half,,,,,,,,,,,five,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,16:35:00,,afternoon,half,,,,,,,,,,,five,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,16:40:00,,afternoon,,,,45 past,,,,,,,,five,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,16:45:00,,afternoon,,,,45 past,,,,,,,,five,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,16:50:00,,afternoon,,,,45 past,,,,,,,,five,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,16:55:00,,afternoon,,,,,,,,,,,,five,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,17:00:00,,afternoon,,,,,,,,,,,,five,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,17:05:00,,afternoon,,,,,,,,,,,,five,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,17:10:00,,,,,evening,,quarter,,,,,six,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,17:15:00,,,,,evening,,quarter,,,,,six,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,17:20:00,,,,,evening,,quarter,,,,,six,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,17:25:00,,,half,,evening,,,,,,,six,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,17:30:00,,,half,,evening,,,,,,,six,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,17:35:00,,,half,,evening,,,,,,,six,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,17:40:00,,,,,evening,45 past,,,,,,six,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,17:45:00,,,,,evening,45 past,,,,,,six,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,17:50:00,,,,,evening,45 past,,,,,,six,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,17:55:00,,,,,evening,,,,,,,six,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,18:00:00,,,,,evening,,,,,,,six,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,18:05:00,,,,,evening,,,,,,,six,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,18:10:00,,,,,evening,,quarter,,,,,,,,seven,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,18:15:00,,,,,evening,,quarter,,,,,,,,seven,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,18:20:00,,,,,evening,,quarter,,,,,,,,seven,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,18:25:00,,,half,,evening,,,,,,,,,,seven,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,18:30:00,,,half,,evening,,,,,,,,,,seven,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,18:35:00,,,half,,evening,,,,,,,,,,seven,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,18:40:00,,,,,evening,45 past,,,,,,,,,seven,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,18:45:00,,,,,evening,45 past,,,,,,,,,seven,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,18:50:00,,,,,evening,45 past,,,,,,,,,seven,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,18:55:00,,,,,evening,,,,,,,,,,seven,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,19:00:00,,,,,evening,,,,,,,,,,seven,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,19:05:00,,,,,evening,,,,,,,,,,seven,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,19:10:00,,,,,evening,,quarter,,,,,,,,,eight,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,19:15:00,,,,,evening,,quarter,,,,,,,,,eight,,,,,it is
+,,,,,,,,,,,,,,,,,,,,19:20:00,,,,,evening,,quarter,,,,,,,,,eight,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,19:25:00,,,half,,evening,,,,,,,,,,,eight,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,19:30:00,,,half,,evening,,,,,,,,,,,eight,,,,,it is
+,,,,,,,,,,,,,,,,,,,,19:35:00,,,half,,evening,,,,,,,,,,,eight,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,19:40:00,,,,,evening,45 past,,,,,,,,,,eight,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,19:45:00,,,,,evening,45 past,,,,,,,,,,eight,,,,,it is
+,,,,,,,,,,,,,,,,,,,,19:50:00,,,,,evening,45 past,,,,,,,,,,eight,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,19:55:00,,,,,evening,,,,,,,,,,,eight,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,20:00:00,,,,,evening,,,,,,,,,,,eight,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,20:05:00,,,,,evening,,,,,,,,,,,eight,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,20:10:00,,,,,evening,,quarter,,,,,,,,,,nine,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,20:15:00,,,,,evening,,quarter,,,,,,,,,,nine,,,,it is
+,,,,,,,,,,,,,,,,,,,,20:20:00,,,,,evening,,quarter,,,,,,,,,,nine,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,20:25:00,,,half,,evening,,,,,,,,,,,,nine,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,20:30:00,,,half,,evening,,,,,,,,,,,,nine,,,,it is
+,,,,,,,,,,,,,,,,,,,,20:35:00,,,half,,evening,,,,,,,,,,,,nine,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,20:40:00,,,,,evening,45 past,,,,,,,,,,,nine,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,20:45:00,,,,,evening,45 past,,,,,,,,,,,nine,,,,it is
+,,,,,,,,,,,,,,,,,,,,20:50:00,,,,,evening,45 past,,,,,,,,,,,nine,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,20:55:00,,,,,evening,,,,,,,,,,,,nine,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,21:00:00,,,,,evening,,,,,,,,,,,,nine,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,21:05:00,,,,,evening,,,,,,,,,,,,nine,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,21:10:00,,,,,evening,,quarter,,,,,,,,,,,ten,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,21:15:00,,,,,evening,,quarter,,,,,,,,,,,ten,,,it is
+,,,,,,,,,,,,,,,,,,,,21:20:00,,,,,evening,,quarter,,,,,,,,,,,ten,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,21:25:00,,,half,,evening,,,,,,,,,,,,,ten,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,21:30:00,,,half,,evening,,,,,,,,,,,,,ten,,,it is
+,,,,,,,,,,,,,,,,,,,,21:35:00,,,half,,evening,,,,,,,,,,,,,ten,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,21:40:00,,,,,evening,45 past,,,,,,,,,,,,ten,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,21:45:00,,,,,evening,45 past,,,,,,,,,,,,ten,,,it is
+,,,,,,,,,,,,,,,,,,,,21:50:00,,,,,evening,45 past,,,,,,,,,,,,ten,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,21:55:00,,,,,evening,,,,,,,,,,,,,ten,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,22:00:00,,,,,evening,,,,,,,,,,,,,ten,hour,,it is
+,,,,,,,,,,,,,,,,,,,,22:05:00,,,,,evening,,,,,,,,,,,,,ten,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,22:10:00,,,,,evening,,quarter,after 10,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,22:15:00,,,,,evening,,quarter,after 10,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,22:20:00,,,,,evening,,quarter,after 10,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,22:25:00,,,half,,evening,,,after 10,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,22:30:00,,,half,,evening,,,after 10,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,22:35:00,,,half,,evening,,,after 10,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,22:40:00,,,,,evening,45 past,,after 10,one,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,22:45:00,,,,,evening,45 past,,after 10,one,,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,22:50:00,,,,,evening,45 past,,after 10,one,,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,22:55:00,,,,,evening,,,after 10,one,,,,,,,,,,hour,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,23:00:00,,,,,evening,,,after 10,one,,,,,,,,,,hour,,it is
+,,,,,,,,,,,,,,,,,,,,23:05:00,,,,,evening,,,after 10,one,,,,,,,,,,hour,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,23:10:00,,,,,evening,,quarter,after 10,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,23:15:00,,,,,evening,,quarter,after 10,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,23:20:00,,,,,evening,,quarter,after 10,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,23:25:00,,,half,,evening,,,after 10,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,23:30:00,,,half,,evening,,,after 10,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,23:35:00,,,half,,evening,,,after 10,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,23:40:00,,,,,evening,45 past,,after 10,,two,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,23:45:00,,,,,evening,45 past,,after 10,,two,,,,,,,,,,,it is
+,,,,,,,,,,,,,,,,,,,,23:50:00,,,,,evening,45 past,,after 10,,two,,,,,,,,,,past,,,til in 5,,,after
+,,,,,,,,,,,,,,,,,,,,23:55:00,,,,midnight,,,,,,,,,,,,,,,,,,till,til in 5,,minute,,after
+,,,,,,,,,,,,,,,,,,,,n_min_led,0,n_min_state,0

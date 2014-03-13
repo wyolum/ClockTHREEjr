@@ -1,0 +1,288 @@
+00:00 tá sé a dó dhéag a chlog 
+00:05 tá sé cúig nóiméad tar éis a dó dhéag 
+00:10 tá sé deich nóiméad tar éis a dó dhéag 
+00:15 tá sé ceathrú tar éis a dó dhéag 
+00:20 tá sé fiche nóiméad tar éis a dó dhéag 
+00:25 tá sé fiche a cúig nóiméad tar éis a dó dhéag 
+00:30 tá sé leath uair tar éis a dó dhéag 
+00:35 tá sé fiche a cúig nóiméad chun a haon 
+00:40 tá sé fiche nóiméad chun a haon 
+00:45 tá sé ceathrú chun a haon 
+00:50 tá sé deich nóiméad chun a haon 
+00:55 tá sé cúig nóiméad chun a haon 
+01:00 tá sé a haon a chlog 
+01:05 tá sé cúig nóiméad tar éis a haon 
+01:10 tá sé deich nóiméad tar éis a haon 
+01:15 tá sé ceathrú tar éis a haon 
+01:20 tá sé fiche nóiméad tar éis a haon 
+01:25 tá sé fiche a cúig nóiméad tar éis a haon 
+01:30 tá sé leath uair tar éis a haon 
+01:35 tá sé fiche a cúig nóiméad chun a dó 
+01:40 tá sé fiche nóiméad chun a dó 
+01:45 tá sé ceathrú chun a dó 
+01:50 tá sé deich nóiméad chun a dó 
+01:55 tá sé cúig nóiméad chun a dó 
+02:00 tá sé a dó a chlog 
+02:05 tá sé cúig nóiméad tar éis a dó 
+02:10 tá sé deich nóiméad tar éis a dó 
+02:15 tá sé ceathrú tar éis a dó 
+02:20 tá sé fiche nóiméad tar éis a dó 
+02:25 tá sé fiche a cúig nóiméad tar éis a dó 
+02:30 tá sé leath uair tar éis a dó 
+02:35 tá sé fiche a cúig nóiméad chun a trí 
+02:40 tá sé fiche nóiméad chun a trí 
+02:45 tá sé ceathrú chun a trí 
+02:50 tá sé deich nóiméad chun a trí 
+02:55 tá sé cúig nóiméad chun a trí 
+03:00 tá sé a trí a chlog 
+03:05 tá sé cúig nóiméad tar éis a trí 
+03:10 tá sé deich nóiméad tar éis a trí 
+03:15 tá sé ceathrú tar éis a trí 
+03:20 tá sé fiche nóiméad tar éis a trí 
+03:25 tá sé fiche a cúig nóiméad tar éis a trí 
+03:30 tá sé leath uair tar éis a trí 
+03:35 tá sé fiche a cúig nóiméad chun a ceathair 
+03:40 tá sé fiche nóiméad chun a ceathair 
+03:45 tá sé ceathrú chun a ceathair 
+03:50 tá sé deich nóiméad chun a ceathair 
+03:55 tá sé cúig nóiméad chun a ceathair 
+04:00 tá sé a ceathair a chlog 
+04:05 tá sé cúig nóiméad tar éis a ceathair 
+04:10 tá sé deich nóiméad tar éis a ceathair 
+04:15 tá sé ceathrú tar éis a ceathair 
+04:20 tá sé fiche nóiméad tar éis a ceathair 
+04:25 tá sé fiche a cúig nóiméad tar éis a ceathair 
+04:30 tá sé leath uair tar éis a ceathair 
+04:35 tá sé fiche a cúig nóiméad chun a cúig 
+04:40 tá sé fiche nóiméad chun a cúig 
+04:45 tá sé ceathrú chun a cúig 
+04:50 tá sé deich nóiméad chun a cúig 
+04:55 tá sé cúig nóiméad chun a cúig 
+05:00 tá sé a cúig a chlog 
+05:05 tá sé cúig nóiméad tar éis a cúig 
+05:10 tá sé deich nóiméad tar éis a cúig 
+05:15 tá sé ceathrú tar éis a cúig 
+05:20 tá sé fiche nóiméad tar éis a cúig 
+05:25 tá sé fiche a cúig nóiméad tar éis a cúig 
+05:30 tá sé leath uair tar éis a cúig 
+05:35 tá sé fiche a cúig nóiméad chun a sé 
+05:40 tá sé fiche nóiméad chun a sé 
+05:45 tá sé ceathrú chun a sé 
+05:50 tá sé deich nóiméad chun a sé 
+05:55 tá sé cúig nóiméad chun a sé 
+06:00 tá sé a sé a chlog 
+06:05 tá sé cúig nóiméad tar éis a sé 
+06:10 tá sé deich nóiméad tar éis a sé 
+06:15 tá sé ceathrú tar éis a sé 
+06:20 tá sé fiche nóiméad tar éis a sé 
+06:25 tá sé fiche a cúig nóiméad tar éis a sé 
+06:30 tá sé leath uair tar éis a sé 
+06:35 tá sé fiche a cúig nóiméad chun a seacht 
+06:40 tá sé fiche nóiméad chun a seacht 
+06:45 tá sé ceathrú chun a seacht 
+06:50 tá sé deich nóiméad chun a seacht 
+06:55 tá sé cúig nóiméad chun a seacht 
+07:00 tá sé a seacht a chlog 
+07:05 tá sé cúig nóiméad tar éis a seacht 
+07:10 tá sé deich nóiméad tar éis a seacht 
+07:15 tá sé ceathrú tar éis a seacht 
+07:20 tá sé fiche nóiméad tar éis a seacht 
+07:25 tá sé fiche a cúig nóiméad tar éis a seacht 
+07:30 tá sé leath uair tar éis a seacht 
+07:35 tá sé fiche a cúig nóiméad chun a hocht 
+07:40 tá sé fiche nóiméad chun a hocht 
+07:45 tá sé ceathrú chun a hocht 
+07:50 tá sé deich nóiméad chun a hocht 
+07:55 tá sé cúig nóiméad chun a hocht 
+08:00 tá sé a hocht a chlog 
+08:05 tá sé cúig nóiméad tar éis a hocht 
+08:10 tá sé deich nóiméad tar éis a hocht 
+08:15 tá sé ceathrú tar éis a hocht 
+08:20 tá sé fiche nóiméad tar éis a hocht 
+08:25 tá sé fiche a cúig nóiméad tar éis a hocht 
+08:30 tá sé leath uair tar éis a hocht 
+08:35 tá sé fiche a cúig nóiméad chun a naoi 
+08:40 tá sé fiche nóiméad chun a naoi 
+08:45 tá sé ceathrú chun a naoi 
+08:50 tá sé deich nóiméad chun a naoi 
+08:55 tá sé cúig nóiméad chun a naoi 
+09:00 tá sé a naoi a chlog 
+09:05 tá sé cúig nóiméad tar éis a naoi 
+09:10 tá sé deich nóiméad tar éis a naoi 
+09:15 tá sé ceathrú tar éis a naoi 
+09:20 tá sé fiche nóiméad tar éis a naoi 
+09:25 tá sé fiche a cúig nóiméad tar éis a naoi 
+09:30 tá sé leath uair tar éis a naoi 
+09:35 tá sé fiche a cúig nóiméad chun a deich 
+09:40 tá sé fiche nóiméad chun a deich 
+09:45 tá sé ceathrú chun a deich 
+09:50 tá sé deich nóiméad chun a deich 
+09:55 tá sé cúig nóiméad chun a deich 
+10:00 tá sé a deich a chlog 
+10:05 tá sé cúig nóiméad tar éis a deich 
+10:10 tá sé deich nóiméad tar éis a deich 
+10:15 tá sé ceathrú tar éis a deich 
+10:20 tá sé fiche nóiméad tar éis a deich 
+10:25 tá sé fiche a cúig nóiméad tar éis a deich 
+10:30 tá sé leath uair tar éis a deich 
+10:35 tá sé fiche a cúig nóiméad chun a haon déag 
+10:40 tá sé fiche nóiméad chun a haon déag 
+10:45 tá sé ceathrú chun a haon déag 
+10:50 tá sé deich nóiméad chun a haon déag 
+10:55 tá sé cúig nóiméad chun a haon déag 
+11:00 tá sé a haon déag a chlog 
+11:05 tá sé cúig nóiméad tar éis a haon déag 
+11:10 tá sé deich nóiméad tar éis a haon déag 
+11:15 tá sé ceathrú tar éis a haon déag 
+11:20 tá sé fiche nóiméad tar éis a haon déag 
+11:25 tá sé fiche a cúig nóiméad tar éis a haon déag 
+11:30 tá sé leath uair tar éis a haon déag 
+11:35 tá sé fiche a cúig nóiméad chun a dó dhéag 
+11:40 tá sé fiche nóiméad chun a dó dhéag 
+11:45 tá sé ceathrú chun a dó dhéag 
+11:50 tá sé deich nóiméad chun a dó dhéag 
+11:55 tá sé cúig nóiméad chun a dó dhéag 
+12:00 tá sé a dó dhéag a chlog 
+12:05 tá sé cúig nóiméad tar éis a dó dhéag 
+12:10 tá sé deich nóiméad tar éis a dó dhéag 
+12:15 tá sé ceathrú tar éis a dó dhéag 
+12:20 tá sé fiche nóiméad tar éis a dó dhéag 
+12:25 tá sé fiche a cúig nóiméad tar éis a dó dhéag 
+12:30 tá sé leath uair tar éis a dó dhéag 
+12:35 tá sé fiche a cúig nóiméad chun a haon 
+12:40 tá sé fiche nóiméad chun a haon 
+12:45 tá sé ceathrú chun a haon 
+12:50 tá sé deich nóiméad chun a haon 
+12:55 tá sé cúig nóiméad chun a haon 
+13:00 tá sé a haon a chlog 
+13:05 tá sé cúig nóiméad tar éis a haon 
+13:10 tá sé deich nóiméad tar éis a haon 
+13:15 tá sé ceathrú tar éis a haon 
+13:20 tá sé fiche nóiméad tar éis a haon 
+13:25 tá sé fiche a cúig nóiméad tar éis a haon 
+13:30 tá sé leath uair tar éis a haon 
+13:35 tá sé fiche a cúig nóiméad chun a dó 
+13:40 tá sé fiche nóiméad chun a dó 
+13:45 tá sé ceathrú chun a dó 
+13:50 tá sé deich nóiméad chun a dó 
+13:55 tá sé cúig nóiméad chun a dó 
+14:00 tá sé a dó a chlog 
+14:05 tá sé cúig nóiméad tar éis a dó 
+14:10 tá sé deich nóiméad tar éis a dó 
+14:15 tá sé ceathrú tar éis a dó 
+14:20 tá sé fiche nóiméad tar éis a dó 
+14:25 tá sé fiche a cúig nóiméad tar éis a dó 
+14:30 tá sé leath uair tar éis a dó 
+14:35 tá sé fiche a cúig nóiméad chun a trí 
+14:40 tá sé fiche nóiméad chun a trí 
+14:45 tá sé ceathrú chun a trí 
+14:50 tá sé deich nóiméad chun a trí 
+14:55 tá sé cúig nóiméad chun a trí 
+15:00 tá sé a trí a chlog 
+15:05 tá sé cúig nóiméad tar éis a trí 
+15:10 tá sé deich nóiméad tar éis a trí 
+15:15 tá sé ceathrú tar éis a trí 
+15:20 tá sé fiche nóiméad tar éis a trí 
+15:25 tá sé fiche a cúig nóiméad tar éis a trí 
+15:30 tá sé leath uair tar éis a trí 
+15:35 tá sé fiche a cúig nóiméad chun a ceathair 
+15:40 tá sé fiche nóiméad chun a ceathair 
+15:45 tá sé ceathrú chun a ceathair 
+15:50 tá sé deich nóiméad chun a ceathair 
+15:55 tá sé cúig nóiméad chun a ceathair 
+16:00 tá sé ceathair a chlog 
+16:05 tá sé cúig nóiméad tar éis a ceathair 
+16:10 tá sé deich nóiméad tar éis a ceathair 
+16:15 tá sé ceathrú tar éis a ceathair 
+16:20 tá sé fiche nóiméad tar éis a ceathair 
+16:25 tá sé fiche a cúig nóiméad tar éis a ceathair 
+16:30 tá sé leath uair tar éis a ceathair  
+16:35 tá sé fiche a cúig nóiméad chun a cúig 
+16:40 tá sé fiche nóiméad chun a cúig 
+16:45 tá sé ceathrú chun a cúig 
+16:50 tá sé deich nóiméad chun a cúig 
+16:55 tá sé cúig nóiméad chun a cúig 
+17:00 tá sé a cúig a chlog 
+17:05 tá sé cúig nóiméad tar éis a cúig 
+17:10 tá sé deich nóiméad tar éis a cúig 
+17:15 tá sé ceathrú tar éis a cúig 
+17:20 tá sé fiche nóiméad tar éis a cúig 
+17:25 tá sé fiche a cúig nóiméad tar éis a cúig 
+17:30 tá sé leath uair tar éis a cúig 
+17:35 tá sé fiche a cúig nóiméad chun a sé 
+17:40 tá sé fiche nóiméad chun a sé 
+17:45 tá sé ceathrú chun a sé 
+17:50 tá sé deich nóiméad chun a sé 
+17:55 tá sé cúig nóiméad chun a sé 
+18:00 tá sé a sé a chlog 
+18:05 tá sé cúig nóiméad tar éis a sé 
+18:10 tá sé deich nóiméad tar éis a sé 
+18:15 tá sé ceathrú tar éis a sé 
+18:20 tá sé fiche nóiméad tar éis a sé 
+18:25 tá sé fiche a cúig nóiméad tar éis a sé 
+18:30 tá sé leath uair tar éis a sé 
+18:35 tá sé fiche a cúig nóiméad chun a seacht 
+18:40 tá sé fiche nóiméad chun a seacht 
+18:45 tá sé ceathrú chun a seacht 
+18:50 tá sé deich nóiméad chun a seacht 
+18:55 tá sé cúig nóiméad chun a seacht 
+19:00 tá sé a seacht a chlog 
+19:05 tá sé cúig nóiméad tar éis a seacht 
+19:10 tá sé deich nóiméad tar éis a seacht 
+19:15 tá sé ceathrú tar éis a seacht 
+19:20 tá sé fiche nóiméad tar éis a seacht 
+19:25 tá sé fiche a cúig nóiméad tar éis a seacht 
+19:30 tá sé leath uair tar éis a seacht 
+19:35 tá sé fiche a cúig nóiméad chun a hocht 
+19:40 tá sé fiche nóiméad chun a hocht 
+19:45 tá sé ceathrú chun a hocht 
+19:50 tá sé deich nóiméad chun a hocht 
+19:55 tá sé cúig nóiméad chun a hocht 
+20:00 tá sé a hocht a chlog 
+20:05 tá sé cúig nóiméad tar éis a hocht 
+20:10 tá sé deich nóiméad tar éis a hocht 
+20:15 tá sé ceathrú tar éis a hocht 
+20:20 tá sé fiche nóiméad tar éis a hocht 
+20:25 tá sé fiche a cúig nóiméad tar éis a hocht 
+20:30 tá sé leath uair tar éis a hocht 
+20:35 tá sé fiche a cúig nóiméad chun a naoi 
+20:40 tá sé fiche nóiméad chun a naoi 
+20:45 tá sé ceathrú chun a naoi 
+20:50 tá sé deich nóiméad chun a naoi 
+20:55 tá sé cúig nóiméad chun a naoi 
+21:00 tá sé a naoi a chlog 
+21:05 tá sé cúig nóiméad tar éis a naoi 
+21:10 tá sé deich nóiméad tar éis a naoi 
+21:15 tá sé ceathrú tar éis a naoi 
+21:20 tá sé fiche nóiméad tar éis a naoi 
+21:25 tá sé fiche a cúig nóiméad tar éis a naoi 
+21:30 tá sé leath uair tar éis a naoi 
+21:35 tá sé fiche a cúig nóiméad chun a deich 
+21:40 tá sé fiche nóiméad chun a deich 
+21:45 tá sé ceathrú chun a deich 
+21:50 tá sé deich nóiméad chun a deich 
+21:55 tá sé cúig nóiméad chun a deich 
+22:00 tá sé a deich a chlog 
+22:05 tá sé cúig nóiméad tar éis a deich 
+22:10 tá sé deich nóiméad tar éis a deich 
+22:15 tá sé ceathrú tar éis a deich 
+22:20 tá sé fiche nóiméad tar éis a deich 
+22:25 tá sé fiche a cúig nóiméad tar éis a deich 
+22:30 tá sé leath uair tar éis a deich 
+22:35 tá sé fiche a cúig nóiméad chun a haon déag 
+22:40 tá sé fiche nóiméad chun a haon déag 
+22:45 tá sé ceathrú chun a haon déag 
+22:50 tá sé deich nóiméad chun a haon déag 
+22:55 tá sé cúig nóiméad chun a haon déag 
+23:00 tá sé a haon déag a chlog 
+23:05 tá sé cúig nóiméad tar éis a haon déag 
+23:10 tá sé deich nóiméad tar éis a haon déag 
+23:15 tá sé ceathrú tar éis a haon déag 
+23:20 tá sé fiche nóiméad tar éis a haon déag 
+23:25 tá sé fiche a cúig nóiméad tar éis a haon déag 
+23:30 tá sé leath uair tar éis a haon déag 
+23:35 tá sé fiche a cúig nóiméad chun a dó dhéag 
+23:40 tá sé fiche nóiméad chun a dó dhéag 
+23:45 tá sé ceathrú chun a dó dhéag 
+23:50 tá sé deich nóiméad chun a dó dhéag 
+23:55 tá sé cúig nóiméad chun a dó dhéag 
