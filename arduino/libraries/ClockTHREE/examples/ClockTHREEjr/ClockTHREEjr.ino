@@ -30,7 +30,7 @@
 // #include "dutch_v1.h"
 // #include "english_v0.h"
 // #include "english_v2.h"
-#include "english_v3.h"
+//#include "english_v3.h"
 // #include "french_v1.h"
 // #include "german_v1.h"
 // #include "german_v2.h"
@@ -38,6 +38,7 @@
 // #include "german_v5.h"
 // #include "hebrew_v1.h"
 //#include "spanish_v1.h"
+#include "irish_v1.h"
 
 // #define USE_NIL // comment out if speaker is installed, unless you are already deaf.
 #define USE_USA_DST // use standard USA dailight savings time rule

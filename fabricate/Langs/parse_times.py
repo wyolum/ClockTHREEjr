@@ -70,7 +70,7 @@ for l in sentences:
             print
 # order = 'it is half twenty - quarter ten five to past eleven ten nine eight seven six five four three two one twelve in the evening morning at in the afternoon midnight'.split()
 ##### TEST
-letters = open("Irish_v1_filled.txt").read().decode('utf-8')
+letters = open("Irish_v1.txt").read().decode('utf-8')
 letters = ''.join(letters.splitlines())
 
 index = index_sentences(letters, sentences) 
