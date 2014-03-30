@@ -1,0 +1,288 @@
+00:00 it is twelve o'clock
+00:00 it is five minutes after twelve
+00:00 it is ten minutes after twelve
+00:00 it is a quarter past twelve
+00:00 it is twenty minutes after twelve
+00:00 it is twenty five minutes after twelve
+00:00 it is a half  after twelve
+00:00 it is twenty five minutes to one
+00:00 it is twenty minutes to one
+00:00 it is a quarter to one
+00:00 it is ten minutes to one
+00:00 it is five minutes to one
+00:00 it is one o'clock
+00:00 it is five minutes after one
+00:00 it is ten minutes after one
+00:00 it is a quarter after one
+00:00 it is twenty minutes after one
+00:00 it is twenty five minutes after one
+00:00 it is half time after one
+00:00 it is twenty five minutes to two
+00:00 it is twenty minutes to two
+00:00 it is a quarter to two
+00:00 it is ten minutes to two
+00:00 it is five minutes to two
+00:00 it is two o'clock
+00:00 it is five minutes after it
+00:00 it is ten minutes after it
+00:00 it is a quarter past two
+00:00 it is twenty  two minutes after
+00:00 it is twenty five minutes after it
+00:00 it is a half  after it
+00:00 it is twenty five minutes to three
+00:00 it is twenty minutes to three
+00:00 it is a quarter to three
+00:00 it is ten minutes to three
+00:00 it is five minutes to three
+00:00 it is three o'clock
+00:00 it is five minutes past three
+00:00 it is ten minutes past three
+00:00 it is a quarter past three
+00:00 it is twenty minutes past three
+00:00 it is twenty five minutes past three
+00:00 it is half time after three
+00:00 it is twenty five minutes to four
+00:00 it is twenty minutes to four
+00:00 it is a quarter to four
+00:00 it is ten minutes to four
+00:00 it is five minutes to four
+00:00 it is four o'clock
+00:00 it is five minutes past four
+00:00 it is ten minutes past four
+00:00 it is a quarter past four
+00:00 it is twenty minutes past four
+00:00 it is twenty five minutes past four
+00:00 it is half time after four
+00:00 it is twenty five minutes to five
+00:00 it is twenty minutes to five
+00:00 it is a quarter to five
+00:00 it is ten minutes to five
+00:00 it is five minutes to five
+00:00 it is five o'clock
+00:00 it is five minutes past five
+00:00 it is ten minutes past five
+00:00 it is a quarter past five
+00:00 it is twenty  five minutes after
+00:00 it is twenty five minutes past five
+00:00 it is half time after five
+00:00 it is twenty five minutes to six
+00:00 it is twenty minutes to six
+00:00 it is the fourth to sixth
+00:00 it is ten minutes to six
+00:00 it is five minutes to six
+00:00 it is six o'clock
+00:00 it is five minutes after it
+00:00 it is ten minutes after it
+00:00 it is a quarter past six
+00:00 it is twenty minutes after it
+00:00 it is twenty five minutes after it
+00:00 it is a half  after it
+00:00 it is twenty five minutes to seven
+00:00 it is twenty minutes to seven
+00:00 it is a quarter to seven
+00:00 it is ten minutes to seven
+00:00 it is five minutes to seven
+00:00 it is seven o'clock
+00:00 it is five minutes past seven
+00:00 it is ten minutes past seven
+00:00 it is a quarter past seven
+00:00 it is twenty minutes past seven
+00:00 it is twenty five minutes past seven
+00:00 it is half time after a seven
+00:00 it is twenty five minutes to eight
+00:00 it is twenty minutes to eight
+00:00 it is a quarter to eight
+00:00 it is ten minutes to eight
+00:00 it is five minutes to eight
+00:00 it is eight o'clock
+00:00 it is five minutes past eight
+00:00 it is ten minutes past eight
+00:00 it is a quarter past eight
+00:00 it is twenty minutes past eight
+00:00 it is twenty five minutes past eight
+00:00 it is half after eight 
+00:00 it is twenty five minutes to nine
+00:00 it is twenty minutes to nine
+00:00 it is a quarter to nine
+00:00 it is ten minutes to nine
+00:00 it is five minutes to nine
+00:00 it is nine o'clock
+00:00 it is five minutes after nine
+00:00 it is ten minutes after nine
+00:00 it is a quarter past nine
+00:00 it is twenty minutes after nine
+00:00 it is twenty five minutes after nine
+00:00 it is half an  after nine
+00:00 it is twenty five minutes to ten
+00:00 it is twenty minutes to ten
+00:00 it is a quarter to ten
+00:00 it is ten minutes to ten
+00:00 it is five minutes to ten
+00:00 it is ten o'clock
+00:00 it is five to ten minutes after
+00:00 it is ten minutes after ten
+00:00 it is a quarter past ten
+00:00 it is twenty minutes after ten
+00:00 it is twenty five minutes after ten
+00:00 it is half time after a ten
+00:00 it is twenty five minutes to eleven
+00:00 it is twenty minutes to eleven
+00:00 it is a quarter to eleven
+00:00 it is ten minutes to eleven
+00:00 it is five minutes to eleven
+00:00 it is eleven o'clock
+00:00 it is five minutes after eleven
+00:00 it is ten minutes after eleven
+00:00 it is a quarter past eleven
+00:00 it is twenty minutes after eleven
+00:00 it is twenty five minutes after eleven
+00:00 it is a half  after eleven
+00:00 it is twenty five minutes to twelve
+00:00 it is twenty minutes to twelve
+00:00 it is a quarter to twelve
+00:00 it is ten minutes to twelve
+00:00 it is five minutes to twelve
+00:00 it is twelve o'clock
+00:00 it is five minutes after twelve
+00:00 it is ten minutes after twelve
+00:00 it is a quarter past twelve
+00:00 it is twenty minutes after twelve
+00:00 it is twenty five minutes after twelve
+00:00 it is a half  after twelve
+00:00 it is twenty five minutes to one
+00:00 it is twenty minutes to one
+00:00 it is a quarter to one
+00:00 it is ten minutes to one
+00:00 it is five minutes to one
+00:00 it is one o'clock
+00:00 it is five minutes after one
+00:00 it is ten minutes after one
+00:00 it is a quarter after one
+00:00 it is twenty minutes after one
+00:00 it is twenty five minutes after one
+00:00 it is half time after one
+00:00 it is twenty five minutes to two
+00:00 it is twenty minutes to two
+00:00 it is a quarter to two
+00:00 it is ten minutes to two
+00:00 it is five minutes to two
+00:00 it is two o'clock
+00:00 it is five minutes after it
+00:00 it is ten minutes after it
+00:00 it is a quarter past two
+00:00 it is twenty  two minutes after
+00:00 it is twenty five minutes after it
+00:00 it is a half  after it
+00:00 it is twenty five minutes to three
+00:00 it is twenty minutes to three
+00:00 it is a quarter to three
+00:00 it is ten minutes to three
+00:00 it is five minutes to three
+00:00 it is three o'clock
+00:00 it is five minutes past three
+00:00 it is ten minutes past three
+00:00 it is a quarter past three
+00:00 it is twenty minutes past three
+00:00 it is twenty five minutes past three
+00:00 it is half time after three
+00:00 it is twenty five minutes to four
+00:00 it is twenty minutes to four
+00:00 it is a quarter to four
+00:00 it is ten minutes to four
+00:00 it is five minutes to four
+00:00 it is four o'clock
+00:00 it is five minutes past four
+00:00 it is ten minutes past four
+00:00 it is a quarter past four
+00:00 it is twenty minutes past four
+00:00 it is twenty five minutes past four
+00:00 it is half time after four
+00:00 it is twenty five minutes to five
+00:00 it is twenty minutes to five
+00:00 it is a quarter to five
+00:00 it is ten minutes to five
+00:00 it is five minutes to five
+00:00 it is five o'clock
+00:00 it is five minutes past five
+00:00 it is ten minutes past five
+00:00 it is a quarter past five
+00:00 it is twenty  five minutes after
+00:00 it is twenty five minutes past five
+00:00 it is half time after five
+00:00 it is twenty five minutes to six
+00:00 it is twenty minutes to six
+00:00 it is fourth to sixth
+00:00 it is ten minutes to six
+00:00 it is five minutes to six
+00:00 it is six o'clock
+00:00 it is five minutes after it
+00:00 it is ten minutes after it
+00:00 it is a quarter past six
+00:00 it is twenty minutes after it
+00:00 it is twenty five minutes after it
+00:00 it is a half  after it
+00:00 it is twenty five minutes to seven
+00:00 it is twenty minutes to seven
+00:00 it is a quarter to seven
+00:00 it is ten minutes to seven
+00:00 it is five minutes to seven
+00:00 it is seven o'clock
+00:00 it is five minutes past seven
+00:00 it is ten minutes past seven
+00:00 it is a quarter past seven
+00:00 it is twenty minutes past seven
+00:00 it is twenty five minutes past seven
+00:00 it is half time after a seven
+00:00 it is twenty five minutes to eight
+00:00 it is twenty minutes to eight
+00:00 it is a quarter to eight
+00:00 it is ten minutes to eight
+00:00 it is five minutes to eight
+00:00 it is eight o'clock
+00:00 it is five minutes past eight
+00:00 it is ten minutes past eight
+00:00 it is a quarter past eight
+00:00 it is twenty minutes past eight
+00:00 it is twenty five minutes past eight
+00:00 it is half after eight s
+00:00 it is twenty five minutes to nine
+00:00 it is twenty minutes to nine
+00:00 it is a quarter to nine
+00:00 it is ten minutes to nine
+00:00 it is five minutes to nine
+00:00 it is nine o'clock
+00:00 it is five minutes after nine
+00:00 it is ten minutes after nine
+00:00 it is a quarter past nine
+00:00 it is twenty minutes after nine
+00:00 it is twenty five minutes after nine
+00:00 it is half an  after nine
+00:00 it is twenty five minutes to ten
+00:00 it is twenty minutes to ten
+00:00 it is a quarter to ten
+00:00 it is ten minutes to ten
+00:00 it is five minutes to ten
+00:00 it is ten o'clock
+00:00 it is five to ten minutes after
+00:00 it is ten minutes after ten
+00:00 it is a quarter past ten
+00:00 it is twenty minutes after ten
+00:00 it is twenty five minutes after ten
+00:00 it is half time after a ten
+00:00 it is twenty five minutes to eleven
+00:00 it is twenty minutes to eleven
+00:00 it is a quarter to eleven
+00:00 it is ten minutes to eleven
+00:00 it is five minutes to eleven
+00:00 it is eleven o'clock
+00:00 it is five minutes after eleven
+00:00 it is ten minutes after eleven
+00:00 it is a quarter past eleven
+00:00 it is twenty minutes after eleven
+00:00 it is twenty five minutes after eleven
+00:00 it is a half  after eleven
+00:00 it is twenty five minutes to twelve
+00:00 it is twenty minutes to twelve
+00:00 it is a quarter to twelve
+00:00 it is ten minutes to twelve
+00:00 it is five minutes to twelve

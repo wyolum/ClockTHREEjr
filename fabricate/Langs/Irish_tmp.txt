@@ -1,0 +1,288 @@
+tá sé a dó dhéag a chlog 
+tá sé cúig nóiméad tar éis a dó dhéag 
+tá sé deich nóiméad tar éis a dó dhéag 
+tá sé ceathrú tar éis a dó dhéag 
+tá sé fiche nóiméad tar éis a dó dhéag 
+tá sé fiche a cúig nóiméad tar éis a dó dhéag 
+tá sé leath uair tar éis a dó dhéag 
+tá sé fiche a cúig nóiméad chun a haon 
+tá sé fiche nóiméad chun a haon 
+tá sé ceathrú chun a haon 
+tá sé deich nóiméad chun a haon 
+tá sé cúig nóiméad chun a haon 
+tá sé a haon a chlog 
+tá sé cúig nóiméad tar éis a haon 
+tá sé deich nóiméad tar éis a haon 
+tá sé ceathrú tar éis a haon 
+tá sé fiche nóiméad tar éis a haon 
+tá sé fiche a cúig nóiméad tar éis a haon 
+tá sé leath uair tar éis a haon 
+tá sé fiche a cúig nóiméad chun a dó 
+tá sé fiche nóiméad chun a dó 
+tá sé ceathrú chun a dó 
+tá sé deich nóiméad chun a dó 
+tá sé cúig nóiméad chun a dó 
+tá sé a dó a chlog 
+tá sé cúig nóiméad tar éis a dó 
+tá sé deich nóiméad tar éis a dó 
+tá sé ceathrú tar éis a dó 
+tá sé fiche nóiméad tar éis a dó 
+tá sé fiche a cúig nóiméad tar éis a dó 
+tá sé leath uair tar éis a dó 
+tá sé fiche a cúig nóiméad chun a trí 
+tá sé fiche nóiméad chun a trí 
+tá sé ceathrú chun a trí 
+tá sé deich nóiméad chun a trí 
+tá sé cúig nóiméad chun a trí 
+tá sé a trí a chlog 
+tá sé cúig nóiméad tar éis a trí 
+tá sé deich nóiméad tar éis a trí 
+tá sé ceathrú tar éis a trí 
+tá sé fiche nóiméad tar éis a trí 
+tá sé fiche a cúig nóiméad tar éis a trí 
+tá sé leath uair tar éis a trí 
+tá sé fiche a cúig nóiméad chun a ceathair 
+tá sé fiche nóiméad chun a ceathair 
+tá sé ceathrú chun a ceathair 
+tá sé deich nóiméad chun a ceathair 
+tá sé cúig nóiméad chun a ceathair 
+tá sé a ceathair a chlog 
+tá sé cúig nóiméad tar éis a ceathair 
+tá sé deich nóiméad tar éis a ceathair 
+tá sé ceathrú tar éis a ceathair 
+tá sé fiche nóiméad tar éis a ceathair 
+tá sé fiche a cúig nóiméad tar éis a ceathair 
+tá sé leath uair tar éis a ceathair 
+tá sé fiche a cúig nóiméad chun a cúig 
+tá sé fiche nóiméad chun a cúig 
+tá sé ceathrú chun a cúig 
+tá sé deich nóiméad chun a cúig 
+tá sé cúig nóiméad chun a cúig 
+tá sé a cúig a chlog 
+tá sé cúig nóiméad tar éis a cúig 
+tá sé deich nóiméad tar éis a cúig 
+tá sé ceathrú tar éis a cúig 
+tá sé fiche nóiméad tar éis a cúig 
+tá sé fiche a cúig nóiméad tar éis a cúig 
+tá sé leath uair tar éis a cúig 
+tá sé fiche a cúig nóiméad chun a sé 
+tá sé fiche nóiméad chun a sé 
+tá sé ceathrú chun a sé 
+tá sé deich nóiméad chun a sé 
+tá sé cúig nóiméad chun a sé 
+tá sé a sé a chlog 
+tá sé cúig nóiméad tar éis a sé 
+tá sé deich nóiméad tar éis a sé 
+tá sé ceathrú tar éis a sé 
+tá sé fiche nóiméad tar éis a sé 
+tá sé fiche a cúig nóiméad tar éis a sé 
+tá sé leath uair tar éis a sé 
+tá sé fiche a cúig nóiméad chun a seacht 
+tá sé fiche nóiméad chun a seacht 
+tá sé ceathrú chun a seacht 
+tá sé deich nóiméad chun a seacht 
+tá sé cúig nóiméad chun a seacht 
+tá sé a seacht a chlog 
+tá sé cúig nóiméad tar éis a seacht 
+tá sé deich nóiméad tar éis a seacht 
+tá sé ceathrú tar éis a seacht 
+tá sé fiche nóiméad tar éis a seacht 
+tá sé fiche a cúig nóiméad tar éis a seacht 
+tá sé leath uair tar éis a seacht 
+tá sé fiche a cúig nóiméad chun a hocht 
+tá sé fiche nóiméad chun a hocht 
+tá sé ceathrú chun a hocht 
+tá sé deich nóiméad chun a hocht 
+tá sé cúig nóiméad chun a hocht 
+tá sé a hocht a chlog 
+tá sé cúig nóiméad tar éis a hocht 
+tá sé deich nóiméad tar éis a hocht 
+tá sé ceathrú tar éis a hocht 
+tá sé fiche nóiméad tar éis a hocht 
+tá sé fiche a cúig nóiméad tar éis a hocht 
+tá sé leath uair tar éis a hocht 
+tá sé fiche a cúig nóiméad chun a naoi 
+tá sé fiche nóiméad chun a naoi 
+tá sé ceathrú chun a naoi 
+tá sé deich nóiméad chun a naoi 
+tá sé cúig nóiméad chun a naoi 
+tá sé a naoi a chlog 
+tá sé cúig nóiméad tar éis a naoi 
+tá sé deich nóiméad tar éis a naoi 
+tá sé ceathrú tar éis a naoi 
+tá sé fiche nóiméad tar éis a naoi 
+tá sé fiche a cúig nóiméad tar éis a naoi 
+tá sé leath uair tar éis a naoi 
+tá sé fiche a cúig nóiméad chun a deich 
+tá sé fiche nóiméad chun a deich 
+tá sé ceathrú chun a deich 
+tá sé deich nóiméad chun a deich 
+tá sé cúig nóiméad chun a deich 
+tá sé a deich a chlog 
+tá sé cúig nóiméad tar éis a deich 
+tá sé deich nóiméad tar éis a deich 
+tá sé ceathrú tar éis a deich 
+tá sé fiche nóiméad tar éis a deich 
+tá sé fiche a cúig nóiméad tar éis a deich 
+tá sé leath uair tar éis a deich 
+tá sé fiche a cúig nóiméad chun a haon déag 
+tá sé fiche nóiméad chun a haon déag 
+tá sé ceathrú chun a haon déag 
+tá sé deich nóiméad chun a haon déag 
+tá sé cúig nóiméad chun a haon déag 
+tá sé a haon déag a chlog 
+tá sé cúig nóiméad tar éis a haon déag 
+tá sé deich nóiméad tar éis a haon déag 
+tá sé ceathrú tar éis a haon déag 
+tá sé fiche nóiméad tar éis a haon déag 
+tá sé fiche a cúig nóiméad tar éis a haon déag 
+tá sé leath uair tar éis a haon déag 
+tá sé fiche a cúig nóiméad chun a dó dhéag 
+tá sé fiche nóiméad chun a dó dhéag 
+tá sé ceathrú chun a dó dhéag 
+tá sé deich nóiméad chun a dó dhéag 
+tá sé cúig nóiméad chun a dó dhéag 
+tá sé a dó dhéag a chlog 
+tá sé cúig nóiméad tar éis a dó dhéag 
+tá sé deich nóiméad tar éis a dó dhéag 
+tá sé ceathrú tar éis a dó dhéag 
+tá sé fiche nóiméad tar éis a dó dhéag 
+tá sé fiche a cúig nóiméad tar éis a dó dhéag 
+tá sé leath uair tar éis a dó dhéag 
+tá sé fiche a cúig nóiméad chun a haon 
+tá sé fiche nóiméad chun a haon 
+tá sé ceathrú chun a haon 
+tá sé deich nóiméad chun a haon 
+tá sé cúig nóiméad chun a haon 
+tá sé a haon a chlog 
+tá sé cúig nóiméad tar éis a haon 
+tá sé deich nóiméad tar éis a haon 
+tá sé ceathrú tar éis a haon 
+tá sé fiche nóiméad tar éis a haon 
+tá sé fiche a cúig nóiméad tar éis a haon 
+tá sé leath uair tar éis a haon 
+tá sé fiche a cúig nóiméad chun a dó 
+tá sé fiche nóiméad chun a dó 
+tá sé ceathrú chun a dó 
+tá sé deich nóiméad chun a dó 
+tá sé cúig nóiméad chun a dó 
+tá sé a dó a chlog 
+tá sé cúig nóiméad tar éis a dó 
+tá sé deich nóiméad tar éis a dó 
+tá sé ceathrú tar éis a dó 
+tá sé fiche nóiméad tar éis a dó 
+tá sé fiche a cúig nóiméad tar éis a dó 
+tá sé leath uair tar éis a dó 
+tá sé fiche a cúig nóiméad chun a trí 
+tá sé fiche nóiméad chun a trí 
+tá sé ceathrú chun a trí 
+tá sé deich nóiméad chun a trí 
+tá sé cúig nóiméad chun a trí 
+tá sé a trí a chlog 
+tá sé cúig nóiméad tar éis a trí 
+tá sé deich nóiméad tar éis a trí 
+tá sé ceathrú tar éis a trí 
+tá sé fiche nóiméad tar éis a trí 
+tá sé fiche a cúig nóiméad tar éis a trí 
+tá sé leath uair tar éis a trí 
+tá sé fiche a cúig nóiméad chun a ceathair 
+tá sé fiche nóiméad chun a ceathair 
+tá sé ceathrú chun a ceathair 
+tá sé deich nóiméad chun a ceathair 
+tá sé cúig nóiméad chun a ceathair 
+tá sé ceathair a chlog 
+tá sé cúig nóiméad tar éis a ceathair 
+tá sé deich nóiméad tar éis a ceathair 
+tá sé ceathrú tar éis a ceathair 
+tá sé fiche nóiméad tar éis a ceathair 
+tá sé fiche a cúig nóiméad tar éis a ceathair 
+tá sé leath uair tar éis a ceathair  
+tá sé fiche a cúig nóiméad chun a cúig 
+tá sé fiche nóiméad chun a cúig 
+tá sé ceathrú chun a cúig 
+tá sé deich nóiméad chun a cúig 
+tá sé cúig nóiméad chun a cúig 
+tá sé a cúig a chlog 
+tá sé cúig nóiméad tar éis a cúig 
+tá sé deich nóiméad tar éis a cúig 
+tá sé ceathrú tar éis a cúig 
+tá sé fiche nóiméad tar éis a cúig 
+tá sé fiche a cúig nóiméad tar éis a cúig 
+tá sé leath uair tar éis a cúig 
+tá sé fiche a cúig nóiméad chun a sé 
+tá sé fiche nóiméad chun a sé 
+tá sé ceathrú chun a sé 
+tá sé deich nóiméad chun a sé 
+tá sé cúig nóiméad chun a sé 
+tá sé a sé a chlog 
+tá sé cúig nóiméad tar éis a sé 
+tá sé deich nóiméad tar éis a sé 
+tá sé ceathrú tar éis a sé 
+tá sé fiche nóiméad tar éis a sé 
+tá sé fiche a cúig nóiméad tar éis a sé 
+tá sé leath uair tar éis a sé 
+tá sé fiche a cúig nóiméad chun a seacht 
+tá sé fiche nóiméad chun a seacht 
+tá sé ceathrú chun a seacht 
+tá sé deich nóiméad chun a seacht 
+tá sé cúig nóiméad chun a seacht 
+tá sé a seacht a chlog 
+tá sé cúig nóiméad tar éis a seacht 
+tá sé deich nóiméad tar éis a seacht 
+tá sé ceathrú tar éis a seacht 
+tá sé fiche nóiméad tar éis a seacht 
+tá sé fiche a cúig nóiméad tar éis a seacht 
+tá sé leath uair tar éis a seacht 
+tá sé fiche a cúig nóiméad chun a hocht 
+tá sé fiche nóiméad chun a hocht 
+tá sé ceathrú chun a hocht 
+tá sé deich nóiméad chun a hocht 
+tá sé cúig nóiméad chun a hocht 
+tá sé a hocht a chlog 
+tá sé cúig nóiméad tar éis a hocht 
+tá sé deich nóiméad tar éis a hocht 
+tá sé ceathrú tar éis a hocht 
+tá sé fiche nóiméad tar éis a hocht 
+tá sé fiche a cúig nóiméad tar éis a hocht 
+tá sé leath uair tar éis a hocht 
+tá sé fiche a cúig nóiméad chun a naoi 
+tá sé fiche nóiméad chun a naoi 
+tá sé ceathrú chun a naoi 
+tá sé deich nóiméad chun a naoi 
+tá sé cúig nóiméad chun a naoi 
+tá sé a naoi a chlog 
+tá sé cúig nóiméad tar éis a naoi 
+tá sé deich nóiméad tar éis a naoi 
+tá sé ceathrú tar éis a naoi 
+tá sé fiche nóiméad tar éis a naoi 
+tá sé fiche a cúig nóiméad tar éis a naoi 
+tá sé leath uair tar éis a naoi 
+tá sé fiche a cúig nóiméad chun a deich 
+tá sé fiche nóiméad chun a deich 
+tá sé ceathrú chun a deich 
+tá sé deich nóiméad chun a deich 
+tá sé cúig nóiméad chun a deich 
+tá sé a deich a chlog 
+tá sé cúig nóiméad tar éis a deich 
+tá sé deich nóiméad tar éis a deich 
+tá sé ceathrú tar éis a deich 
+tá sé fiche nóiméad tar éis a deich 
+tá sé fiche a cúig nóiméad tar éis a deich 
+tá sé leath uair tar éis a deich 
+tá sé fiche a cúig nóiméad chun a haon déag 
+tá sé fiche nóiméad chun a haon déag 
+tá sé ceathrú chun a haon déag 
+tá sé deich nóiméad chun a haon déag 
+tá sé cúig nóiméad chun a haon déag 
+tá sé a haon déag a chlog 
+tá sé cúig nóiméad tar éis a haon déag 
+tá sé deich nóiméad tar éis a haon déag 
+tá sé ceathrú tar éis a haon déag 
+tá sé fiche nóiméad tar éis a haon déag 
+tá sé fiche a cúig nóiméad tar éis a haon déag 
+tá sé leath uair tar éis a haon déag 
+tá sé fiche a cúig nóiméad chun a dó dhéag 
+tá sé fiche nóiméad chun a dó dhéag 
+tá sé ceathrú chun a dó dhéag 
+tá sé deich nóiméad chun a dó dhéag 
+tá sé cúig nóiméad chun a dó dhéag 
