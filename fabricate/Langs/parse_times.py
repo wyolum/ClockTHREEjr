@@ -1,6 +1,7 @@
+import make_wtf
 import random
 times = open("Irish_v5.txt").read().decode('utf-8').splitlines()
-times = open("english.txt").read().splitlines()
+# times = open("english.txt").read().splitlines()
 # Peter_order = open("Irish_v5_porder.txt").read().decode('utf-8').split()
 # print ''.join(Peter_order)
 sentences = [l[5:].split() for l in times]
@@ -42,12 +43,13 @@ def validate(letters, sentences, printit=False):
 
 assert not validate('seta', [['ta', 'se']])
 assert validate('tase', [['ta', 'se']])
+if False:
 ################################################################################
-order = 'it is half twenty - quarter ten five to past eleven ten nine eight seven six five four three two one in the evening morning twelve at in the afternoon midnight'
-assert validate(order, sentences)
-order = 'it is half twenty - quarter ten five to past eleven ten nine eight seven six five four three two one twelve in the evening morning at afternoon midnight'
-assert validate(order, sentences, True)
-# here
+    order = 'it is half twenty - quarter ten five to past eleven ten nine eight seven six five four three two one in the evening morning twelve at in the afternoon midnight'
+    assert validate(order, sentences)
+    order = 'it is half twenty - quarter ten five to past eleven ten nine eight seven six five four three two one twelve in the evening morning at afternoon midnight'
+    assert validate(order, sentences, True)
+    # here
 ################################################################################
 
 
@@ -66,7 +68,15 @@ for l in sentences:
             print ' '.join(words)
             print ', '.join(order)
             print
-order = 'it is half twenty - quarter ten five to past eleven ten nine eight seven six five four three two one twelve in the evening morning at in the afternoon midnight'.split()
+# order = 'it is half twenty - quarter ten five to past eleven ten nine eight seven six five four three two one twelve in the evening morning at in the afternoon midnight'.split()
+##### TEST
+letters = open("Irish_v1_filled.txt").read().decode('utf-8')
+letters = ''.join(letters.splitlines())
+
+index = index_sentences(letters, sentences) 
+make_wtf.make_wtf(letters, sentences, index, filename="Irish_v1.wtf")
+here
+##### TEST
 
 def prune(order, sentences, printit=False):
     order_cp = order[:]

@@ -88,15 +88,6 @@ def readwtf(csvfile, n_row=8, n_col=16):
     assert ''.join(ss.getCell('U1').lower().split()) == 'startrow'
     assert ''.join(ss.getCell('U2').lower().split()) == 'startcol'
     assert ''.join(ss.getCell('U3').lower().split()) == 'length'
-    if False:
-        print ss.parsecell('A2')
-        print ss.parsecell('B2')
-        print ss.parsecell('AZ1')
-        print ss.parsecell('BA1')
-        print ss.parsecell('*1')
-        print ss.parsecell('A*')
-        print ss.parsecell('**')
-        here
     
     letters = ss.getRegion('C2:R9')
     rows = map(int, ss.getRegion('V1:*1')[0])
@@ -324,6 +315,7 @@ class ClockTHREEjr:
             self.data = readwtf(wtf)
             self.wtf = wtf
         except AssertionError:
+            raise
             self.askopenfilename()
         self.letters = self.data['letters']
         self.n_word = len(self.data['words'])

@@ -45,7 +45,7 @@ wtf_file = find_lang_file(lang)
 wtf = readwtf(wtf_file)
 letters = wtf['letters']
 
-if False: ### irish version hack
+if True: ### irish version hack
     lang = 'Irish_v1'
 
     letters = open("Langs/Irish_v1.txt").readlines()
@@ -57,7 +57,7 @@ if False: ### irish version hack
         for c in line.decode('utf-8'):
             print c,
         print
-# letters = [list(line.decode('utf-8')) for line in letters]
+    letters = [list(line.decode('utf-8')) for line in letters]
 
 if lang == 'Spanish_v1':
     letters[-1][2] = chr(209) ### hacked in to get Spanish_v1 working
@@ -122,7 +122,7 @@ else:
     do_corner_holes = True
 
 create_faceplate(name, letters, cases[case], font, fontsize, 
-                 reverse=False,
+                 reverse=True,
                  color=color, 
                  baffles=False,
                  do_corner_holes=do_corner_holes,
