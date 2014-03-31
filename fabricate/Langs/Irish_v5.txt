@@ -190,7 +190,7 @@
 15:45 tá sé ceathrú chun a ceathair 
 15:50 tá sé deich nóiméad chun a ceathair 
 15:55 tá sé cúig nóiméad chun a ceathair 
-16:00 tá sé ceathair a chlog 
+16:00 tá sé a ceathair a chlog 
 16:05 tá sé cúig nóiméad tar éis a ceathair 
 16:10 tá sé deich nóiméad tar éis a ceathair 
 16:15 tá sé ceathrú tar éis a ceathair 
