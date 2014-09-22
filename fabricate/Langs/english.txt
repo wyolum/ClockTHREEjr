@@ -1,0 +1,288 @@
+00:00 it is twelve midnight
+00:05 it is five past twelve midnight
+00:10 it is ten past twelve midnight
+00:15 it is a quarter past twelve midnight
+00:20 it is twenty past twelve midnight
+00:25 it is twenty - five past twelve midnight
+00:30 it is half past twelve midnight
+00:35 it is twenty - five to one in the morning
+00:40 it is twenty to one in the morning
+00:45 it is a quarter to one in the morning
+00:50 it is ten to one in the morning
+00:55 it is five to one in the morning
+01:00 it is one in the morning
+01:05 it is five past one in the morning
+01:10 it is ten past one in the morning
+01:15 it is a quarter past one in the morning
+01:20 it is twenty past one in the morning
+01:25 it is twenty - five past one in the morning
+01:30 it is half past one in the morning
+01:35 it is twenty - five to two in the morning
+01:40 it is twenty to two in the morning
+01:45 it is a quarter to two in the morning
+01:50 it is ten to two in the morning
+01:55 it is five to two in the morning
+02:00 it is two in the morning
+02:05 it is five past two in the morning
+02:10 it is ten past two in the morning
+02:15 it is a quarter past two in the morning
+02:20 it is twenty past two in the morning
+02:25 it is twenty - five past two in the morning
+02:30 it is half past two in the morning
+02:35 it is twenty - five to three in the morning
+02:40 it is twenty to three in the morning
+02:45 it is a quarter to three in the morning
+02:50 it is ten to three in the morning
+02:55 it is five to three in the morning
+03:00 it is three in the morning
+03:05 it is five past three in the morning
+03:10 it is ten past three in the morning
+03:15 it is a quarter past three in the morning
+03:20 it is twenty past three in the morning
+03:25 it is twenty - five past three in the morning
+03:30 it is half past three in the morning
+03:35 it is twenty - five to four in the morning
+03:40 it is twenty to four in the morning
+03:45 it is a quarter to four in the morning
+03:50 it is ten to four in the morning
+03:55 it is five to four in the morning
+04:00 it is four in the morning
+04:05 it is five past four in the morning
+04:10 it is ten past four in the morning
+04:15 it is a quarter past four in the morning
+04:20 it is twenty past four in the morning
+04:25 it is twenty - five past four in the morning
+04:30 it is half past four in the morning
+04:35 it is twenty - five to five in the morning
+04:40 it is twenty to five in the morning
+04:45 it is a quarter to five in the morning
+04:50 it is ten to five in the morning
+04:55 it is five to five in the morning
+05:00 it is five in the morning
+05:05 it is five past five in the morning
+05:10 it is ten past five in the morning
+05:15 it is a quarter past five in the morning
+05:20 it is twenty past five in the morning
+05:25 it is twenty - five past five in the morning
+05:30 it is half past five in the morning
+05:35 it is twenty - five to six in the morning
+05:40 it is twenty to six in the morning
+05:45 it is a quarter to six in the morning
+05:50 it is ten to six in the morning
+05:55 it is five to six in the morning
+06:00 it is six in the morning
+06:05 it is five past six in the morning
+06:10 it is ten past six in the morning
+06:15 it is a quarter past six in the morning
+06:20 it is twenty past six in the morning
+06:25 it is twenty - five past six in the morning
+06:30 it is half past six in the morning
+06:35 it is twenty - five to seven in the morning
+06:40 it is twenty to seven in the morning
+06:45 it is a quarter to seven in the morning
+06:50 it is ten to seven in the morning
+06:55 it is five to seven in the morning
+07:00 it is seven in the morning
+07:05 it is five past seven in the morning
+07:10 it is ten past seven in the morning
+07:15 it is a quarter past seven in the morning
+07:20 it is twenty past seven in the morning
+07:25 it is twenty - five past seven in the morning
+07:30 it is half past seven in the morning
+07:35 it is twenty - five to eight in the morning
+07:40 it is twenty to eight in the morning
+07:45 it is a quarter to eight in the morning
+07:50 it is ten to eight in the morning
+07:55 it is five to eight in the morning
+08:00 it is eight in the morning
+08:05 it is five past eight in the morning
+08:10 it is ten past eight in the morning
+08:15 it is a quarter past eight in the morning
+08:20 it is twenty past eight in the morning
+08:25 it is twenty - five past eight in the morning
+08:30 it is half past eight in the morning
+08:35 it is twenty - five to nine in the morning
+08:40 it is twenty to nine in the morning
+08:45 it is a quarter to nine in the morning
+08:50 it is ten to nine in the morning
+08:55 it is five to nine in the morning
+09:00 it is nine in the morning
+09:05 it is five past nine in the morning
+09:10 it is ten past nine in the morning
+09:15 it is a quarter past nine in the morning
+09:20 it is twenty past nine in the morning
+09:25 it is twenty - five past nine in the morning
+09:30 it is half past nine in the morning
+09:35 it is twenty - five to ten in the morning
+09:40 it is twenty to ten in the morning
+09:45 it is a quarter to ten in the morning
+09:50 it is ten to ten in the morning
+09:55 it is five to ten in the morning
+10:00 it is ten in the morning
+10:05 it is five past ten in the morning
+10:10 it is ten past ten in the morning
+10:15 it is a quarter past ten in the morning
+10:20 it is twenty past ten in the morning
+10:25 it is twenty - five past ten in the morning
+10:30 it is half past ten in the morning
+10:35 it is twenty - five to eleven in the morning
+10:40 it is twenty to eleven in the morning
+10:45 it is a quarter to eleven in the morning
+10:50 it is ten to eleven in the morning
+10:55 it is five to eleven in the morning
+11:00 it is eleven in the morning
+11:05 it is five past eleven in the morning
+11:10 it is ten past eleven in the morning
+11:15 it is a quarter past eleven in the morning
+11:20 it is twenty past eleven in the morning
+11:25 it is twenty - five past eleven in the morning
+11:30 it is half past eleven in the morning
+11:35 it is twenty - five to twelve noon
+11:40 it is twenty to twelve noon
+11:45 it is a quarter to twelve noon
+11:50 it is ten to twelve noon
+11:55 it is five to twelve noon
+12:00 it is twelve noon
+12:05 it is five past twelve noon
+12:10 it is ten past twelve noon
+12:15 it is a quarter past twelve noon
+12:20 it is twenty past twelve noon
+12:25 it is twenty - five past twelve noon
+12:30 it is half past twelve in the afternoon
+12:35 it is twenty - five to one in the afternoon
+12:40 it is twenty to one in the afternoon
+12:45 it is a quarter to one in the afternoon
+12:50 it is ten to one in the afternoon
+12:55 it is five to one in the afternoon
+13:00 it is one in the afternoon
+13:05 it is five past one in the afternoon
+13:10 it is ten past one in the afternoon
+13:15 it is a quarter past one in the afternoon
+13:20 it is twenty past one in the afternoon
+13:25 it is twenty - five past one in the afternoon
+13:30 it is half past one in the afternoon
+13:35 it is twenty - five to two in the afternoon
+13:40 it is twenty to two in the afternoon
+13:45 it is a quarter to two in the afternoon
+13:50 it is ten to two in the afternoon
+13:55 it is five to two in the afternoon
+14:00 it is two in the afternoon
+14:05 it is five past two in the afternoon
+14:10 it is ten past two in the afternoon
+14:15 it is a quarter past two in the afternoon
+14:20 it is twenty past two in the afternoon
+14:25 it is twenty - five past two in the afternoon
+14:30 it is half past two in the afternoon
+14:35 it is twenty - five to three in the afternoon
+14:40 it is twenty to three in the afternoon
+14:45 it is a quarter to three in the afternoon
+14:50 it is ten to three in the afternoon
+14:55 it is five to three in the afternoon
+15:00 it is three in the afternoon
+15:05 it is five past three in the afternoon
+15:10 it is ten past three in the afternoon
+15:15 it is a quarter past three in the afternoon
+15:20 it is twenty past three in the afternoon
+15:25 it is twenty - five past three in the afternoon
+15:30 it is half past three in the afternoon
+15:35 it is twenty - five to four in the afternoon
+15:40 it is twenty to four in the afternoon
+15:45 it is a quarter to four in the afternoon
+15:50 it is ten to four in the afternoon
+15:55 it is five to four in the afternoon
+16:00 it is four in the afternoon
+16:05 it is five past four in the afternoon
+16:10 it is ten past four in the afternoon
+16:15 it is a quarter past four in the afternoon
+16:20 it is twenty past four in the afternoon
+16:25 it is twenty - five past four in the afternoon
+16:30 it is half past four in the afternoon
+16:35 it is twenty - five to five in the afternoon
+16:40 it is twenty to five in the afternoon
+16:45 it is a quarter to five in the afternoon
+16:50 it is ten to five in the afternoon
+16:55 it is five to five in the afternoon
+17:00 it is five in the afternoon
+17:05 it is five past five in the afternoon
+17:10 it is ten past five in the afternoon
+17:15 it is a quarter past five in the afternoon
+17:20 it is twenty past five in the afternoon
+17:25 it is twenty - five past five in the afternoon
+17:30 it is half past five in the afternoon
+17:35 it is twenty - five to six in the afternoon
+17:40 it is twenty to six in the afternoon
+17:45 it is a quarter to six in the afternoon
+17:50 it is ten to six in the afternoon
+17:55 it is five to six in the afternoon
+18:00 it is six in the evening
+18:05 it is five past six in the evening
+18:10 it is ten past six in the evening
+18:15 it is a quarter past six in the evening
+18:20 it is twenty past six in the evening
+18:25 it is twenty - five past six in the evening
+18:30 it is half past six in the evening
+18:35 it is twenty - five to seven in the evening
+18:40 it is twenty to seven in the evening
+18:45 it is a quarter to seven in the evening
+18:50 it is ten to seven in the evening
+18:55 it is five to seven in the evening
+19:00 it is seven in the evening
+19:05 it is five past seven in the evening
+19:10 it is ten past seven in the evening
+19:15 it is a quarter past seven in the evening
+19:20 it is twenty past seven in the evening
+19:25 it is twenty - five past seven in the evening
+19:30 it is half past seven in the evening
+19:35 it is twenty - five to eight in the evening
+19:40 it is twenty to eight in the evening
+19:45 it is a quarter to eight in the evening
+19:50 it is ten to eight in the evening
+19:55 it is five to eight in the evening
+20:00 it is eight in the evening
+20:05 it is five past eight in the evening
+20:10 it is ten past eight in the evening
+20:15 it is a quarter past eight in the evening
+20:20 it is twenty past eight in the evening
+20:25 it is twenty - five past eight in the evening
+20:30 it is half past eight in the evening
+20:35 it is twenty - five to nine in the evening
+20:40 it is twenty to nine in the evening
+20:45 it is a quarter to nine in the evening
+20:50 it is ten to nine in the evening
+20:55 it is five to nine in the evening
+21:00 it is nine in the evening
+21:05 it is five past nine in the evening
+21:10 it is ten past nine in the evening
+21:15 it is a quarter past nine in the evening
+21:20 it is twenty past nine in the evening
+21:25 it is twenty - five past nine in the evening
+21:30 it is half past nine in the evening
+21:35 it is twenty - five to ten in the evening
+21:40 it is twenty to ten in the evening
+21:45 it is a quarter to ten in the evening
+21:50 it is ten to ten in the evening
+21:55 it is five to ten in the evening
+22:00 it is ten at night
+22:05 it is five past ten at night
+22:10 it is ten past ten at night
+22:15 it is a quarter past ten at night
+22:20 it is twenty past ten at night
+22:25 it is twenty - five past ten at night
+22:30 it is half past ten at night
+22:35 it is twenty - five to eleven at night
+22:40 it is twenty to eleven at night
+22:45 it is a quarter to eleven at night
+22:50 it is ten to eleven at night
+22:55 it is five to eleven at night
+23:00 it is eleven at night
+23:05 it is five past eleven at night
+23:10 it is ten past eleven at night
+23:15 it is a quarter past eleven at night
+23:20 it is twenty past eleven at night
+23:25 it is twenty - five past eleven at night
+23:30 it is half past eleven at night
+23:35 it is twenty - five to twelve at night
+23:40 it is twenty to twelve at night
+23:45 it is a quarter to twelve at night
+23:50 it is ten to twelve midnight
+23:55 it is five to twelve midnight

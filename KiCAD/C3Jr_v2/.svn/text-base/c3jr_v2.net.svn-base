@@ -1,0 +1,2724 @@
+# EESchema Netlist Version 1.1 created  3/6/2012 5:59:11 PM
+(
+ ( /4D28241A/4DC14DAD Baffle BF1 BAFFLE
+ )
+ ( /4D28241A/4DC14DC7 BackPlate BP1 BackPlate
+ )
+ ( /4B3F1092/4DBAC690 CR2032 BT1 BATT_RTC
+  ( + /c3jr_v2-Aux/BAT )
+  ( - GND )
+ )
+ ( /4B3F1092/4F1D4E51 CP_5x11mm C1 100u
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4B3F1092/4F1D4EB4 CP_5x11mm C2 100u
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4C1345CB C2 C3 100n
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4B3F1092/4F3A3537 C2 C4 100n
+  ( 1 /c3jr_v2-Aux/VOUT )
+  ( 2 GND )
+ )
+ ( /4F3F2CF7 C2 C5 100n
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4C12211E C2 C6 100n
+  ( 1 VCC )
+  ( 2 GND )
+ )
+ ( /4B3F1092/4C109AA3 C2 C7 100n
+  ( 1 /c3jr_v2-Aux/RES )
+  ( 2 N-000072 )
+ )
+ ( /4B3F1092/4B3F12C7 CP_5x11mm C8 100u
+  ( 1 /c3jr_v2-Aux/VRAW )
+  ( 2 GND )
+ )
+ ( /4B3F1092/4B3F12D0 C2 C9 100n
+  ( 1 /c3jr_v2-Aux/VRAW )
+  ( 2 GND )
+ )
+ ( /4B3F1092/4DBAC168 C2 C10 100n
+  ( 1 /c3jr_v2-Aux/BAT )
+  ( 2 GND )
+ )
+ ( /4DBBA4DA cnp_3mm_disc C11 22p
+  ( 1 N-000048 )
+  ( 2 GND )
+ )
+ ( /4DBBA4E0 cnp_3mm_disc C12 22p
+  ( 1 N-000065 )
+  ( 2 GND )
+ )
+ ( /4B3F1092/4D060BC4 pin_strip_4 CD1 CDOT1
+  ( 1 /c3jr_v2-Aux/BAT )
+  ( 2 /c3jr_v2-Aux/32k )
+  ( 3 /c3jr_v2-Aux/SQW )
+  ( 4 /c3jr_v2-Aux/RST )
+ )
+ ( /4B3F1092/4D060BC3 pin_strip_4 CD2 CDOT2
+  ( 1 /c3jr_v2-Aux/SDA )
+  ( 2 /c3jr_v2-Aux/SCL )
+  ( 3 VCC )
+  ( 4 GND )
+ )
+ ( /4B3F1092/4D060C51 pin_strip_4 CD3 CDOT3
+  ( 1 /c3jr_v2-Aux/BAT )
+  ( 2 /c3jr_v2-Aux/32k )
+  ( 3 /c3jr_v2-Aux/SQW )
+  ( 4 /c3jr_v2-Aux/RST )
+ )
+ ( /4C134896/4DB3F5FC led_5mm_clear D1 LED
+  ( 1 /c3jr_v2-LED/C16 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5F7 led_5mm_clear D2 LED
+  ( 1 /c3jr_v2-LED/C15 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5F0 led_5mm_clear D3 LED
+  ( 1 /c3jr_v2-LED/C14 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5EC led_5mm_clear D4 LED
+  ( 1 /c3jr_v2-LED/C13 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5E7 led_5mm_clear D5 LED
+  ( 1 /c3jr_v2-LED/C12 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5E2 led_5mm_clear D6 LED
+  ( 1 /c3jr_v2-LED/C11 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5DE led_5mm_clear D7 LED
+  ( 1 /c3jr_v2-LED/C10 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5DA led_5mm_clear D8 LED
+  ( 1 /c3jr_v2-LED/C09 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5D7 led_5mm_clear D9 LED
+  ( 1 /c3jr_v2-LED/C08 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5D4 led_5mm_clear D10 LED
+  ( 1 /c3jr_v2-LED/C07 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5CF led_5mm_clear D11 LED
+  ( 1 /c3jr_v2-LED/C06 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5C9 led_5mm_clear D12 LED
+  ( 1 /c3jr_v2-LED/C05 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5C0 led_5mm_clear D13 LED
+  ( 1 /c3jr_v2-LED/C04 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5B9 led_5mm_clear D14 LED
+  ( 1 /c3jr_v2-LED/C03 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5B5 led_5mm_clear D15 LED
+  ( 1 /c3jr_v2-LED/C02 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB3F5B0 led_5mm_clear D16 LED
+  ( 1 /c3jr_v2-LED/C01 )
+  ( 2 /c3jr_v2-LED/R01 )
+ )
+ ( /4C134896/4DB40D03 led_5mm_clear D17 LED
+  ( 1 /c3jr_v2-LED/C16 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D04 led_5mm_clear D18 LED
+  ( 1 /c3jr_v2-LED/C15 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D05 led_5mm_clear D19 LED
+  ( 1 /c3jr_v2-LED/C14 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D06 led_5mm_clear D20 LED
+  ( 1 /c3jr_v2-LED/C13 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D07 led_5mm_clear D21 LED
+  ( 1 /c3jr_v2-LED/C12 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D08 led_5mm_clear D22 LED
+  ( 1 /c3jr_v2-LED/C11 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D09 led_5mm_clear D23 LED
+  ( 1 /c3jr_v2-LED/C10 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D0A led_5mm_clear D24 LED
+  ( 1 /c3jr_v2-LED/C09 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D0B led_5mm_clear D25 LED
+  ( 1 /c3jr_v2-LED/C08 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D0C led_5mm_clear D26 LED
+  ( 1 /c3jr_v2-LED/C07 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D0D led_5mm_clear D27 LED
+  ( 1 /c3jr_v2-LED/C06 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D0E led_5mm_clear D28 LED
+  ( 1 /c3jr_v2-LED/C05 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D0F led_5mm_clear D29 LED
+  ( 1 /c3jr_v2-LED/C04 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D10 led_5mm_clear D30 LED
+  ( 1 /c3jr_v2-LED/C03 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D11 led_5mm_clear D31 LED
+  ( 1 /c3jr_v2-LED/C02 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB40D12 led_5mm_clear D32 LED
+  ( 1 /c3jr_v2-LED/C01 )
+  ( 2 /c3jr_v2-LED/R02 )
+ )
+ ( /4C134896/4DB41079 led_5mm_clear D33 LED
+  ( 1 /c3jr_v2-LED/C16 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41078 led_5mm_clear D34 LED
+  ( 1 /c3jr_v2-LED/C15 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41077 led_5mm_clear D35 LED
+  ( 1 /c3jr_v2-LED/C14 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41076 led_5mm_clear D36 LED
+  ( 1 /c3jr_v2-LED/C13 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41075 led_5mm_clear D37 LED
+  ( 1 /c3jr_v2-LED/C12 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41074 led_5mm_clear D38 LED
+  ( 1 /c3jr_v2-LED/C11 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41073 led_5mm_clear D39 LED
+  ( 1 /c3jr_v2-LED/C10 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41072 led_5mm_clear D40 LED
+  ( 1 /c3jr_v2-LED/C09 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41071 led_5mm_clear D41 LED
+  ( 1 /c3jr_v2-LED/C08 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB41070 led_5mm_clear D42 LED
+  ( 1 /c3jr_v2-LED/C07 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB4106F led_5mm_clear D43 LED
+  ( 1 /c3jr_v2-LED/C06 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB4106E led_5mm_clear D44 LED
+  ( 1 /c3jr_v2-LED/C05 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB4106D led_5mm_clear D45 LED
+  ( 1 /c3jr_v2-LED/C04 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB4106C led_5mm_clear D46 LED
+  ( 1 /c3jr_v2-LED/C03 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB4106B led_5mm_clear D47 LED
+  ( 1 /c3jr_v2-LED/C02 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB4106A led_5mm_clear D48 LED
+  ( 1 /c3jr_v2-LED/C01 )
+  ( 2 /c3jr_v2-LED/R03 )
+ )
+ ( /4C134896/4DB4107A led_5mm_clear D49 LED
+  ( 1 /c3jr_v2-LED/C16 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB4107B led_5mm_clear D50 LED
+  ( 1 /c3jr_v2-LED/C15 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB4107C led_5mm_clear D51 LED
+  ( 1 /c3jr_v2-LED/C14 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB4107D led_5mm_clear D52 LED
+  ( 1 /c3jr_v2-LED/C13 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB4107E led_5mm_clear D53 LED
+  ( 1 /c3jr_v2-LED/C12 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB4107F led_5mm_clear D54 LED
+  ( 1 /c3jr_v2-LED/C11 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41080 led_5mm_clear D55 LED
+  ( 1 /c3jr_v2-LED/C10 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41081 led_5mm_clear D56 LED
+  ( 1 /c3jr_v2-LED/C09 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41082 led_5mm_clear D57 LED
+  ( 1 /c3jr_v2-LED/C08 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41083 led_5mm_clear D58 LED
+  ( 1 /c3jr_v2-LED/C07 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41084 led_5mm_clear D59 LED
+  ( 1 /c3jr_v2-LED/C06 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41085 led_5mm_clear D60 LED
+  ( 1 /c3jr_v2-LED/C05 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41086 led_5mm_clear D61 LED
+  ( 1 /c3jr_v2-LED/C04 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41087 led_5mm_clear D62 LED
+  ( 1 /c3jr_v2-LED/C03 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41088 led_5mm_clear D63 LED
+  ( 1 /c3jr_v2-LED/C02 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41089 led_5mm_clear D64 LED
+  ( 1 /c3jr_v2-LED/C01 )
+  ( 2 /c3jr_v2-LED/R04 )
+ )
+ ( /4C134896/4DB41099 led_5mm_clear D65 LED
+  ( 1 /c3jr_v2-LED/C16 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41098 led_5mm_clear D66 LED
+  ( 1 /c3jr_v2-LED/C15 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41097 led_5mm_clear D67 LED
+  ( 1 /c3jr_v2-LED/C14 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41096 led_5mm_clear D68 LED
+  ( 1 /c3jr_v2-LED/C13 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41095 led_5mm_clear D69 LED
+  ( 1 /c3jr_v2-LED/C12 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41094 led_5mm_clear D70 LED
+  ( 1 /c3jr_v2-LED/C11 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41093 led_5mm_clear D71 LED
+  ( 1 /c3jr_v2-LED/C10 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41092 led_5mm_clear D72 LED
+  ( 1 /c3jr_v2-LED/C09 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41091 led_5mm_clear D73 LED
+  ( 1 /c3jr_v2-LED/C08 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB41090 led_5mm_clear D74 LED
+  ( 1 /c3jr_v2-LED/C07 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB4108F led_5mm_clear D75 LED
+  ( 1 /c3jr_v2-LED/C06 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB4108E led_5mm_clear D76 LED
+  ( 1 /c3jr_v2-LED/C05 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB4108D led_5mm_clear D77 LED
+  ( 1 /c3jr_v2-LED/C04 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB4108C led_5mm_clear D78 LED
+  ( 1 /c3jr_v2-LED/C03 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB4108B led_5mm_clear D79 LED
+  ( 1 /c3jr_v2-LED/C02 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB4108A led_5mm_clear D80 LED
+  ( 1 /c3jr_v2-LED/C01 )
+  ( 2 /c3jr_v2-LED/R05 )
+ )
+ ( /4C134896/4DB4109A led_5mm_clear D81 LED
+  ( 1 /c3jr_v2-LED/C16 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB4109B led_5mm_clear D82 LED
+  ( 1 /c3jr_v2-LED/C15 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB4109C led_5mm_clear D83 LED
+  ( 1 /c3jr_v2-LED/C14 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB4109D led_5mm_clear D84 LED
+  ( 1 /c3jr_v2-LED/C13 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB4109E led_5mm_clear D85 LED
+  ( 1 /c3jr_v2-LED/C12 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB4109F led_5mm_clear D86 LED
+  ( 1 /c3jr_v2-LED/C11 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A0 led_5mm_clear D87 LED
+  ( 1 /c3jr_v2-LED/C10 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A1 led_5mm_clear D88 LED
+  ( 1 /c3jr_v2-LED/C09 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A2 led_5mm_clear D89 LED
+  ( 1 /c3jr_v2-LED/C08 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A3 led_5mm_clear D90 LED
+  ( 1 /c3jr_v2-LED/C07 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A4 led_5mm_clear D91 LED
+  ( 1 /c3jr_v2-LED/C06 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A5 led_5mm_clear D92 LED
+  ( 1 /c3jr_v2-LED/C05 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A6 led_5mm_clear D93 LED
+  ( 1 /c3jr_v2-LED/C04 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A7 led_5mm_clear D94 LED
+  ( 1 /c3jr_v2-LED/C03 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A8 led_5mm_clear D95 LED
+  ( 1 /c3jr_v2-LED/C02 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410A9 led_5mm_clear D96 LED
+  ( 1 /c3jr_v2-LED/C01 )
+  ( 2 /c3jr_v2-LED/R06 )
+ )
+ ( /4C134896/4DB410B9 led_5mm_clear D97 LED
+  ( 1 /c3jr_v2-LED/C16 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B8 led_5mm_clear D98 LED
+  ( 1 /c3jr_v2-LED/C15 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B7 led_5mm_clear D99 LED
+  ( 1 /c3jr_v2-LED/C14 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B6 led_5mm_clear D100 LED
+  ( 1 /c3jr_v2-LED/C13 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B5 led_5mm_clear D101 LED
+  ( 1 /c3jr_v2-LED/C12 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B4 led_5mm_clear D102 LED
+  ( 1 /c3jr_v2-LED/C11 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B3 led_5mm_clear D103 LED
+  ( 1 /c3jr_v2-LED/C10 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B2 led_5mm_clear D104 LED
+  ( 1 /c3jr_v2-LED/C09 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B1 led_5mm_clear D105 LED
+  ( 1 /c3jr_v2-LED/C08 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410B0 led_5mm_clear D106 LED
+  ( 1 /c3jr_v2-LED/C07 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410AF led_5mm_clear D107 LED
+  ( 1 /c3jr_v2-LED/C06 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410AE led_5mm_clear D108 LED
+  ( 1 /c3jr_v2-LED/C05 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410AD led_5mm_clear D109 LED
+  ( 1 /c3jr_v2-LED/C04 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410AC led_5mm_clear D110 LED
+  ( 1 /c3jr_v2-LED/C03 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410AB led_5mm_clear D111 LED
+  ( 1 /c3jr_v2-LED/C02 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410AA led_5mm_clear D112 LED
+  ( 1 /c3jr_v2-LED/C01 )
+  ( 2 /c3jr_v2-LED/R07 )
+ )
+ ( /4C134896/4DB410BA led_5mm_clear D113 LED
+  ( 1 /c3jr_v2-LED/C16 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410BB led_5mm_clear D114 LED
+  ( 1 /c3jr_v2-LED/C15 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410BC led_5mm_clear D115 LED
+  ( 1 /c3jr_v2-LED/C14 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410BD led_5mm_clear D116 LED
+  ( 1 /c3jr_v2-LED/C13 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410BE led_5mm_clear D117 LED
+  ( 1 /c3jr_v2-LED/C12 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410BF led_5mm_clear D118 LED
+  ( 1 /c3jr_v2-LED/C11 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C0 led_5mm_clear D119 LED
+  ( 1 /c3jr_v2-LED/C10 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C1 led_5mm_clear D120 LED
+  ( 1 /c3jr_v2-LED/C09 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C2 led_5mm_clear D121 LED
+  ( 1 /c3jr_v2-LED/C08 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C3 led_5mm_clear D122 LED
+  ( 1 /c3jr_v2-LED/C07 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C4 led_5mm_clear D123 LED
+  ( 1 /c3jr_v2-LED/C06 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C5 led_5mm_clear D124 LED
+  ( 1 /c3jr_v2-LED/C05 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C6 led_5mm_clear D125 LED
+  ( 1 /c3jr_v2-LED/C04 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C7 led_5mm_clear D126 LED
+  ( 1 /c3jr_v2-LED/C03 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C8 led_5mm_clear D127 LED
+  ( 1 /c3jr_v2-LED/C02 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4C134896/4DB410C9 led_5mm_clear D128 LED
+  ( 1 /c3jr_v2-LED/C01 )
+  ( 2 /c3jr_v2-LED/R08 )
+ )
+ ( /4B077B46 led_5mm_blue D258 DBG
+  ( 1 N-000047 )
+  ( 2 GND )
+ )
+ ( /4B3F1092/4B3F12CA led_5mm_blue D260 PWR
+  ( 1 N-000073 )
+  ( 2 GND )
+ )
+ ( /4C2C6A39 SCK-24_600_ELL DIL-U1 STP16DP05
+  ( 1 GND )
+  ( 2 /c3jr_v2-Aux/MOSI-SDI )
+  ( 3 /c3jr_v2-Aux/SCK-CLK )
+  ( 4 /OC1A-LE )
+  ( 5 /c3jr_v2-LED/R01 )
+  ( 6 /c3jr_v2-LED/R02 )
+  ( 7 /c3jr_v2-LED/R03 )
+  ( 8 /c3jr_v2-LED/R04 )
+  ( 9 /c3jr_v2-LED/R05 )
+  ( 10 /c3jr_v2-LED/R06 )
+  ( 11 /c3jr_v2-LED/R07 )
+  ( 12 /c3jr_v2-LED/R08 )
+  ( 13 ? )
+  ( 14 ? )
+  ( 15 ? )
+  ( 16 ? )
+  ( 17 ? )
+  ( 18 ? )
+  ( 19 ? )
+  ( 20 ? )
+  ( 21 GND )
+  ( 22 ? )
+  ( 23 ? )
+  ( 24 VCC )
+ )
+ ( /4D28241A/4DC15770 Frame FM1 FRAME
+ )
+ ( /4D28241A/4DC14DC3 FacePlate FP1 FacePlate
+ )
+ ( /4B3F1092/4ED7ABE7 con-hirose-UX60-MB-5S8 J1 V_IN
+  ( 1 /c3jr_v2-Aux/VRAW )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 GND )
+ )
+ ( /4B3F1092/4DBFE63C con-usb-USB-B-H J2 V_IN
+  ( 1 /c3jr_v2-Aux/VRAW )
+  ( 2 ? )
+  ( 3 ? )
+  ( 4 GND )
+  ( 5 GND )
+  ( 6 GND )
+ )
+ ( /4B3F1092/4ED7AD74 JACK_ALIM J3 V_IN
+  ( 1 /c3jr_v2-Aux/VRAW )
+  ( 2 GND )
+ )
+ ( /4B3F1092/4C109AAC pin_strip_3 K1 PWR_SEL
+  ( 1 /c3jr_v2-Aux/VOUT )
+  ( 2 VCC )
+  ( 3 /c3jr_v2-Aux/USB5V )
+ )
+ ( /4C134896/4D04EA8D pin_strip_3 K2 LED_ENABLE
+  ( 1 VCC )
+  ( 2 N-000119 )
+  ( 3 ? )
+ )
+ ( /4B3F1092/4EE4972F 7Seg_Sel K3 7Seg_Sel
+  ( 1 /c3jr_v2-Aux/DBG )
+  ( 2 /c3jr_v2-Aux/7Seg_Data )
+  ( 3 /c3jr_v2-Aux/TXD )
+ )
+ ( /4B3F1092/4F38DAA4 pin_strip_2 K4 SCL
+  ( 1 /c3jr_v2-Aux/SCL_INT )
+  ( 2 /c3jr_v2-Aux/SCL )
+ )
+ ( /4B3F1092/4F38DADB pin_strip_2 K5 SDA
+  ( 1 /c3jr_v2-Aux/SDA_INT )
+  ( 2 /c3jr_v2-Aux/SDA )
+ )
+ ( /4B3F1092/4DBD1FE5 pin_strip_8 P1 7SegDisp
+  ( 1 GND )
+  ( 2 VCC )
+  ( 3 ? )
+  ( 4 ? )
+  ( 5 ? )
+  ( 6 ? )
+  ( 7 ? )
+  ( 8 /c3jr_v2-Aux/7Seg_Data )
+ )
+ ( /4B3F1092/4C109AA5 pin_strip_6 P7 FTDI
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 /c3jr_v2-Aux/USB5V )
+  ( 4 /c3jr_v2-Aux/RXD )
+  ( 5 /c3jr_v2-Aux/TXD )
+  ( 6 N-000072 )
+ )
+ ( /4B3F1092/4C109AA9 vite_4mm P8 CONN_1
+  ( 1 GND )
+ )
+ ( /4B3F1092/4C109AA8 vite_4mm P9 CONN_1
+  ( 1 GND )
+ )
+ ( /4B3F1092/4C109AA7 vite_4mm P10 CONN_1
+  ( 1 GND )
+ )
+ ( /4B3F1092/4C109AA6 vite_4mm P11 CONN_1
+  ( 1 GND )
+ )
+ ( /4B3F1092/4C122417 pin_strip_3x2 P13 ISP
+  ( 1 /c3jr_v2-Aux/MISO )
+  ( 2 VCC )
+  ( 3 /c3jr_v2-Aux/SCK-CLK )
+  ( 4 /c3jr_v2-Aux/MOSI-SDI )
+  ( 5 /c3jr_v2-Aux/RES )
+  ( 6 GND )
+ )
+ ( /4B3F1092/4C2B1088 vite_4mm P14 CONN_1
+  ( 1 GND )
+ )
+ ( /4B3F1092/4C2B108C vite_4mm P15 CONN_1
+  ( 1 GND )
+ )
+ ( /4B3F1092/4C9A34A2 PROTO-6 P24 DIL6
+  ( 1 N-000074 )
+  ( 2 N-000074 )
+  ( 3 N-000074 )
+  ( 4 N-000070 )
+  ( 5 N-000070 )
+  ( 6 N-000070 )
+ )
+ ( /4B3F1092/4C9A353B PROTO-6 P25 DIL6
+  ( 1 N-000078 )
+  ( 2 N-000078 )
+  ( 3 N-000078 )
+  ( 4 N-000080 )
+  ( 5 N-000080 )
+  ( 6 N-000080 )
+ )
+ ( /4B3F1092/4C9A353E PROTO-6 P26 DIL6
+  ( 1 N-000079 )
+  ( 2 N-000079 )
+  ( 3 N-000079 )
+  ( 4 N-000069 )
+  ( 5 N-000069 )
+  ( 6 N-000069 )
+ )
+ ( /4B3F1092/4C9A3541 PROTO-6 P27 DIL6
+  ( 1 N-000089 )
+  ( 2 N-000089 )
+  ( 3 N-000089 )
+  ( 4 N-000093 )
+  ( 5 N-000093 )
+  ( 6 N-000093 )
+ )
+ ( /4B3F1092/4C9A3544 PROTO-6 P28 DIL6
+  ( 1 N-000084 )
+  ( 2 N-000084 )
+  ( 3 N-000084 )
+  ( 4 N-000096 )
+  ( 5 N-000096 )
+  ( 6 N-000096 )
+ )
+ ( /4B3F1092/4C9A3547 PROTO-6 P29 DIL6
+  ( 1 N-000077 )
+  ( 2 N-000077 )
+  ( 3 N-000077 )
+  ( 4 N-000092 )
+  ( 5 N-000092 )
+  ( 6 N-000092 )
+ )
+ ( /4B3F1092/4C9A354B PROTO-6 P30 DIL6
+  ( 1 N-000081 )
+  ( 2 N-000081 )
+  ( 3 N-000081 )
+  ( 4 N-000091 )
+  ( 5 N-000091 )
+  ( 6 N-000091 )
+ )
+ ( /4B3F1092/4C9A354E PROTO-6 P31 DIL6
+  ( 1 N-000068 )
+  ( 2 N-000068 )
+  ( 3 N-000068 )
+  ( 4 N-000086 )
+  ( 5 N-000086 )
+  ( 6 N-000086 )
+ )
+ ( /4B3F1092/4C9A3551 PROTO-6 P32 DIL6
+  ( 1 N-000082 )
+  ( 2 N-000082 )
+  ( 3 N-000082 )
+  ( 4 N-000090 )
+  ( 5 N-000090 )
+  ( 6 N-000090 )
+ )
+ ( /4B3F1092/4C9A3554 PROTO-6 P33 DIL6
+  ( 1 N-000095 )
+  ( 2 N-000095 )
+  ( 3 N-000095 )
+  ( 4 N-000087 )
+  ( 5 N-000087 )
+  ( 6 N-000087 )
+ )
+ ( /4B3F1092/4C9A3556 PROTO-6 P34 DIL6
+  ( 1 N-000071 )
+  ( 2 N-000071 )
+  ( 3 N-000071 )
+  ( 4 N-000085 )
+  ( 5 N-000085 )
+  ( 6 N-000085 )
+ )
+ ( /4B3F1092/4C9A3559 PROTO-6 P35 DIL6
+  ( 1 N-000094 )
+  ( 2 N-000094 )
+  ( 3 N-000094 )
+  ( 4 N-000088 )
+  ( 5 N-000088 )
+  ( 6 N-000088 )
+ )
+ ( /4B3F1092/4C9A356B PROTO-6 P36 DIL6
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 GND )
+  ( 4 VCC )
+  ( 5 VCC )
+  ( 6 VCC )
+ )
+ ( /4B3F1092/4C9A356F PROTO-6 P37 DIL6
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 GND )
+  ( 4 VCC )
+  ( 5 VCC )
+  ( 6 VCC )
+ )
+ ( /4B3F1092/4C9A3571 PROTO-6 P38 DIL6
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 GND )
+  ( 4 VCC )
+  ( 5 VCC )
+  ( 6 VCC )
+ )
+ ( /4B3F1092/4C9A3574 PROTO-6 P39 DIL6
+  ( 1 GND )
+  ( 2 GND )
+  ( 3 GND )
+  ( 4 VCC )
+  ( 5 VCC )
+  ( 6 VCC )
+ )
+ ( /4B3F1092/4C9A16BC pin_sck_4-90 P41 STACK-L
+  ( 1 VCC )
+  ( 2 /c3jr_v2-Aux/SCL )
+  ( 3 /c3jr_v2-Aux/SDA )
+  ( 4 GND )
+ )
+ ( /4B3F1092/4C9A16A1 pin_strip_4-90 P42 STACK-R
+  ( 1 GND )
+  ( 2 /c3jr_v2-Aux/SDA )
+  ( 3 /c3jr_v2-Aux/SCL )
+  ( 4 VCC )
+ )
+ ( /4C9A4A71 Pad01 P43 CONN_1
+  ( 1 /c3jr_v2-Aux/DBG )
+ )
+ ( /4B3F1092/4D133AEE vite_3mm P49 CONN_1
+  ( 1 ? )
+ )
+ ( /4B3F1092/4D133B32 vite_3mm P50 CONN_1
+  ( 1 ? )
+ )
+ ( /4B3F1092/4D133B36 vite_3mm P51 CONN_1
+  ( 1 ? )
+ )
+ ( /4B3F1092/4D133B38 vite_3mm P52 CONN_1
+  ( 1 ? )
+ )
+ ( /4B3F1092/4DB97039 vite_4mm P53 CONN_1
+  ( 1 GND )
+ )
+ ( /4B3F1092/4DB9703E vite_4mm P54 CONN_1
+  ( 1 GND )
+ )
+ ( /4EDA0FBA PCB PCB1 PCB
+ )
+ ( /4C134896/4C136D3C to92_2N5401 Q1 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000134 )
+  ( 3 /c3jr_v2-LED/C01 )
+ )
+ ( /4C134896/4C136D37 to92_2N5401 Q2 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000133 )
+  ( 3 /c3jr_v2-LED/C02 )
+ )
+ ( /4C134896/4C136D32 to92_2N5401 Q3 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000132 )
+  ( 3 /c3jr_v2-LED/C03 )
+ )
+ ( /4C134896/4C136D29 to92_2N5401 Q4 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000131 )
+  ( 3 /c3jr_v2-LED/C04 )
+ )
+ ( /4C134896/4C136D24 to92_2N5401 Q5 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000130 )
+  ( 3 /c3jr_v2-LED/C05 )
+ )
+ ( /4C134896/4C136D1F to92_2N5401 Q6 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000129 )
+  ( 3 /c3jr_v2-LED/C06 )
+ )
+ ( /4C134896/4C136D19 to92_2N5401 Q7 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000128 )
+  ( 3 /c3jr_v2-LED/C07 )
+ )
+ ( /4C134896/4C136D11 to92_2N5401 Q8 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000127 )
+  ( 3 /c3jr_v2-LED/C08 )
+ )
+ ( /4C134896/4C136D0B to92_2N5401 Q9 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000126 )
+  ( 3 /c3jr_v2-LED/C09 )
+ )
+ ( /4C134896/4C136CF9 to92_2N5401 Q10 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000125 )
+  ( 3 /c3jr_v2-LED/C10 )
+ )
+ ( /4C134896/4C136CF0 to92_2N5401 Q11 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000124 )
+  ( 3 /c3jr_v2-LED/C11 )
+ )
+ ( /4C134896/4C136CEB to92_2N5401 Q12 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000123 )
+  ( 3 /c3jr_v2-LED/C12 )
+ )
+ ( /4C134896/4C136CE5 to92_2N5401 Q13 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000122 )
+  ( 3 /c3jr_v2-LED/C13 )
+ )
+ ( /4C134896/4C136CE0 to92_2N5401 Q14 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000121 )
+  ( 3 /c3jr_v2-LED/C14 )
+ )
+ ( /4C134896/4C136CD8 to92_2N5401 Q15 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000142 )
+  ( 3 /c3jr_v2-LED/C15 )
+ )
+ ( /4C134896/4C136C56 to92_2N5401 Q16 2N5401
+  ( 1 N-000119 )
+  ( 2 N-000143 )
+  ( 3 /c3jr_v2-LED/C16 )
+ )
+ ( /4C9A0DF8 to92_2N5401 Q17 2N5401
+  ( 1 VCC )
+  ( 2 N-000033 )
+  ( 3 N-000034 )
+ )
+ ( /4C134896/4C136D55 rc03_vert_LED R1 100
+  ( 1 /c3jr_v2-LED/COL01 )
+  ( 2 N-000134 )
+ )
+ ( /4C134896/4C136DFE rc03_vert_LED R2 100
+  ( 1 /c3jr_v2-LED/COL02 )
+  ( 2 N-000133 )
+ )
+ ( /4C134896/4C136E04 rc03_vert_LED R3 100
+  ( 1 /c3jr_v2-LED/COL03 )
+  ( 2 N-000132 )
+ )
+ ( /4C134896/4C136E1A rc03_vert_LED R4 100
+  ( 1 /c3jr_v2-LED/COL04 )
+  ( 2 N-000131 )
+ )
+ ( /4C134896/4C136E1D rc03_vert_LED R5 100
+  ( 1 /c3jr_v2-LED/COL05 )
+  ( 2 N-000130 )
+ )
+ ( /4C134896/4C136E20 rc03_vert_LED R6 100
+  ( 1 /c3jr_v2-LED/COL06 )
+  ( 2 N-000129 )
+ )
+ ( /4C134896/4C136E25 rc03_vert_LED R7 100
+  ( 1 /c3jr_v2-LED/COL07 )
+  ( 2 N-000128 )
+ )
+ ( /4C134896/4C136E3B rc03_vert_LED R8 100
+  ( 1 /c3jr_v2-LED/COL08 )
+  ( 2 N-000127 )
+ )
+ ( /4C134896/4C136E3E rc03_vert_LED R9 100
+  ( 1 /c3jr_v2-LED/COL09 )
+  ( 2 N-000126 )
+ )
+ ( /4C134896/4C136E42 rc03_vert_LED R10 100
+  ( 1 /c3jr_v2-LED/COL10 )
+  ( 2 N-000125 )
+ )
+ ( /4C134896/4C136E44 rc03_vert_LED R11 100
+  ( 1 /c3jr_v2-LED/COL11 )
+  ( 2 N-000124 )
+ )
+ ( /4C134896/4C136E4C rc03_vert_LED R12 100
+  ( 1 /c3jr_v2-LED/COL12 )
+  ( 2 N-000123 )
+ )
+ ( /4C134896/4C136E59 rc03_vert_LED R13 100
+  ( 1 /c3jr_v2-LED/COL13 )
+  ( 2 N-000122 )
+ )
+ ( /4C134896/4C136E5C rc03_vert_LED R14 100
+  ( 1 /c3jr_v2-LED/COL14 )
+  ( 2 N-000121 )
+ )
+ ( /4C134896/4C136E5E rc03_vert_LED R15 100
+  ( 1 /c3jr_v2-LED/COL15 )
+  ( 2 N-000142 )
+ )
+ ( /4C134896/4C136E60 rc03_vert_LED R16 100
+  ( 1 /c3jr_v2-LED/COL16 )
+  ( 2 N-000143 )
+ )
+ ( /4B6FC619 RC03 R17 10k
+  ( 1 /MODE )
+  ( 2 GND )
+ )
+ ( /4B077B96 RC03 R18 10k
+  ( 1 /DEC )
+  ( 2 GND )
+ )
+ ( /4B077B9C RC03 R19 10k
+  ( 1 /INC )
+  ( 2 GND )
+ )
+ ( /4B66B818 RC03 R20 4k7
+  ( 1 VCC )
+  ( 2 /c3jr_v2-Aux/SDA )
+ )
+ ( /4B66B80D RC03 R21 4k7
+  ( 1 VCC )
+  ( 2 /c3jr_v2-Aux/SCL )
+ )
+ ( /4B077B1E RC03 R22 10k
+  ( 1 VCC )
+  ( 2 /c3jr_v2-Aux/RES )
+ )
+ ( /4D133449 RC03 R23 10k
+  ( 1 /ENTER )
+  ( 2 GND )
+ )
+ ( /4EE9E1A4 RC03 R24 1k
+  ( 1 GND )
+  ( 2 N-000001 )
+ )
+ ( /4B077B33 RC03 R25 1k
+  ( 1 N-000047 )
+  ( 2 /c3jr_v2-Aux/DBG )
+ )
+ ( /4B3F1092/4B3F12C9 RC03 R26 1k
+  ( 1 N-000073 )
+  ( 2 /c3jr_v2-Aux/VOUT )
+ )
+ ( /4C17353D RC03 R30 100E
+  ( 1 N-000001 )
+  ( 2 N-000034 )
+ )
+ ( /4C1741EB RC03 R31 10K
+  ( 1 /LDR )
+  ( 2 VCC )
+ )
+ ( /4DB9676E pin_strip_2 R32 LDR
+  ( 1 /LDR )
+  ( 2 GND )
+ )
+ ( /4C9A0F04 RC03 R33 680E
+  ( 1 N-000033 )
+  ( 2 /SPEAKER )
+ )
+ ( /4DB961F4 Pot-Var2 R34 2k
+  ( 1 N-000066 )
+  ( 2 GND )
+  ( 3 GND )
+ )
+ ( /4DB9625B RC03 R35 680E
+  ( 1 N-000023 )
+  ( 2 N-000066 )
+ )
+ ( /4B3F1092/4DBAC17C RC03 R36 10k
+  ( 1 /c3jr_v2-Aux/SQW )
+  ( 2 VCC )
+ )
+ ( /4B3F1092/4DBAC184 RC03 R37 10k
+  ( 1 /c3jr_v2-Aux/RST )
+  ( 2 VCC )
+ )
+ ( /4B3F1092/4DBAC191 RC03 R38 10k
+  ( 1 /c3jr_v2-Aux/32k )
+  ( 2 VCC )
+ )
+ ( /4D2315D0 vite_3mm rowBoB1 CONN_1
+  ( 1 ? )
+ )
+ ( /4C173167 Speaker SP1 SPEAKER
+  ( 1 N-000001 )
+  ( 2 GND )
+ )
+ ( /4B680EC2 SW_PB_V SW1 INC
+  ( 1 VCC )
+  ( 2 /INC )
+ )
+ ( /4B680EC9 SW_PB_V SW2 DEC
+  ( 1 VCC )
+  ( 2 /DEC )
+ )
+ ( /4B6FC330 SW_PB_V SW3 MODE
+  ( 1 VCC )
+  ( 2 /MODE )
+ )
+ ( /4B6FC25C SW_PB_V SW4 RST
+  ( 1 GND )
+  ( 2 /c3jr_v2-Aux/RES )
+ )
+ ( /4D1333DE SW_PB_V SW5 ENTER
+  ( 1 VCC )
+  ( 2 /ENTER )
+ )
+ ( /4F043AD0 SW-PB-MOD SW12 INC
+  ( 1 /INC )
+  ( 2 VCC )
+ )
+ ( /4F043AD5 SW-PB-MOD SW22 DEC
+  ( 1 /DEC )
+  ( 2 VCC )
+ )
+ ( /4F043AD9 SW-PB-MOD SW32 MODE
+  ( 1 /MODE )
+  ( 2 VCC )
+ )
+ ( /4F043875 SW-PB-MOD SW42 RST
+  ( 1 /c3jr_v2-Aux/RES )
+  ( 2 GND )
+ )
+ ( /4F043ACA SW-PB-MOD SW52 ENTER
+  ( 1 /ENTER )
+  ( 2 VCC )
+ )
+ ( /4DB95F47 dil_16-300_socket U1 STP8DP05
+  ( 1 GND )
+  ( 2 /c3jr_v2-Aux/MOSI-SDI )
+  ( 3 /c3jr_v2-Aux/SCK-CLK )
+  ( 4 /OC1A-LE )
+  ( 5 /c3jr_v2-LED/R01 )
+  ( 6 /c3jr_v2-LED/R02 )
+  ( 7 /c3jr_v2-LED/R03 )
+  ( 8 /c3jr_v2-LED/R04 )
+  ( 9 /c3jr_v2-LED/R05 )
+  ( 10 /c3jr_v2-LED/R06 )
+  ( 11 /c3jr_v2-LED/R07 )
+  ( 12 /c3jr_v2-LED/R08 )
+  ( 13 GND )
+  ( 14 ? )
+  ( 15 N-000023 )
+  ( 16 VCC )
+ )
+ ( /4B3F1092/4F3A34A1 TO-220_Horizontal U2 7805
+  ( GND GND )
+  ( VI /c3jr_v2-Aux/VRAW )
+  ( VO /c3jr_v2-Aux/VOUT )
+ )
+ ( /4B07796D dil_28-300_socket U3 ATMEGA8-P
+  ( 1 /c3jr_v2-Aux/RES )
+  ( 2 /c3jr_v2-Aux/RXD )
+  ( 3 /c3jr_v2-Aux/TXD )
+  ( 4 /MODE )
+  ( 5 /INC )
+  ( 6 /A0 )
+  ( 7 VCC )
+  ( 8 GND )
+  ( 9 N-000048 )
+  ( 10 N-000065 )
+  ( 11 /A1 )
+  ( 12 /A2 )
+  ( 13 /A3 )
+  ( 14 /ENTER )
+  ( 15 /OC1A-LE )
+  ( 16 /SPEAKER )
+  ( 17 /c3jr_v2-Aux/MOSI-SDI )
+  ( 18 /c3jr_v2-Aux/MISO )
+  ( 19 /c3jr_v2-Aux/SCK-CLK )
+  ( 20 VCC )
+  ( 21 VCC )
+  ( 22 GND )
+  ( 23 /LDR )
+  ( 24 /DEC )
+  ( 25 /c3jr_v2-Aux/DBG )
+  ( 26 /COL_DRIVER_ENABLE )
+  ( 27 /c3jr_v2-Aux/SDA )
+  ( 28 /c3jr_v2-Aux/SCL )
+ )
+ ( /4C109B50 DIP-24__600_ELL U4 74HC154
+  ( 1 /c3jr_v2-LED/COL01 )
+  ( 2 /c3jr_v2-LED/COL02 )
+  ( 3 /c3jr_v2-LED/COL03 )
+  ( 4 /c3jr_v2-LED/COL04 )
+  ( 5 /c3jr_v2-LED/COL05 )
+  ( 6 /c3jr_v2-LED/COL06 )
+  ( 7 /c3jr_v2-LED/COL07 )
+  ( 8 /c3jr_v2-LED/COL08 )
+  ( 9 /c3jr_v2-LED/COL09 )
+  ( 10 /c3jr_v2-LED/COL10 )
+  ( 11 /c3jr_v2-LED/COL11 )
+  ( 12 GND )
+  ( 13 /c3jr_v2-LED/COL12 )
+  ( 14 /c3jr_v2-LED/COL13 )
+  ( 15 /c3jr_v2-LED/COL14 )
+  ( 16 /c3jr_v2-LED/COL15 )
+  ( 17 /c3jr_v2-LED/COL16 )
+  ( 18 GND )
+  ( 19 /COL_DRIVER_ENABLE )
+  ( 20 /A3 )
+  ( 21 /A2 )
+  ( 22 /A1 )
+  ( 23 /A0 )
+  ( 24 VCC )
+ )
+ ( /4B3F1092/4DBAC142 DS3231 U6 DS3231N
+  ( 1 /c3jr_v2-Aux/32k )
+  ( 2 VCC )
+  ( 3 /c3jr_v2-Aux/SQW )
+  ( 4 /c3jr_v2-Aux/RST )
+  ( 5 GND )
+  ( 6 GND )
+  ( 7 GND )
+  ( 8 GND )
+  ( 9 GND )
+  ( 10 GND )
+  ( 11 GND )
+  ( 12 GND )
+  ( 13 GND )
+  ( 14 /c3jr_v2-Aux/BAT )
+  ( 15 /c3jr_v2-Aux/SDA_INT )
+  ( 16 /c3jr_v2-Aux/SCL_INT )
+ )
+ ( /4B077AD9 XTAL X1 16MHz
+  ( 1 N-000048 )
+  ( 2 N-000065 )
+  ( ~ GND )
+ )
+)
+*
+{ Allowed footprints by component:
+$component C1
+ CP*
+ SM*
+$endlist
+$component C2
+ CP*
+ SM*
+$endlist
+$component C3
+ SM*
+ C?
+ C1-1
+$endlist
+$component C4
+ SM*
+ C?
+ C1-1
+$endlist
+$component C5
+ SM*
+ C?
+ C1-1
+$endlist
+$component C6
+ SM*
+ C?
+ C1-1
+$endlist
+$component C7
+ SM*
+ C?
+ C1-1
+$endlist
+$component C8
+ CP*
+ SM*
+$endlist
+$component C9
+ SM*
+ C?
+ C1-1
+$endlist
+$component C10
+ SM*
+ C?
+ C1-1
+$endlist
+$component C11
+ SM*
+ C?
+ C1-1
+$endlist
+$component C12
+ SM*
+ C?
+ C1-1
+$endlist
+$component D1
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D2
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D3
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D4
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D5
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D6
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D7
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D8
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D9
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D10
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D11
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D12
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D13
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D14
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D15
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D16
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D17
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D18
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D19
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D20
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D21
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D22
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D23
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D24
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D25
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D26
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D27
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D28
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D29
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D30
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D31
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D32
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D33
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D34
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D35
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D36
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D37
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D38
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D39
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D40
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D41
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D42
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D43
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D44
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D45
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D46
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D47
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D48
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D49
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D50
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D51
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D52
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D53
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D54
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D55
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D56
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D57
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D58
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D59
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D60
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D61
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D62
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D63
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D64
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D65
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D66
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D67
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D68
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D69
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D70
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D71
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D72
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D73
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D74
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D75
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D76
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D77
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D78
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D79
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D80
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D81
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D82
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D83
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D84
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D85
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D86
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D87
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D88
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D89
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D90
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D91
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D92
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D93
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D94
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D95
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D96
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D97
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D98
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D99
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D100
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D101
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D102
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D103
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D104
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D105
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D106
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D107
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D108
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D109
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D110
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D111
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D112
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D113
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D114
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D115
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D116
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D117
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D118
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D119
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D120
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D121
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D122
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D123
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D124
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D125
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D126
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D127
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D128
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D258
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component D260
+ LED-3MM
+ LED-5MM
+ LED-10MM
+ LED-0603
+ LED-0805
+ LED-1206
+ LEDV
+$endlist
+$component R1
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R2
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R3
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R4
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R5
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R6
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R7
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R8
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R9
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R10
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R11
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R12
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R13
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R14
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R15
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R16
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R17
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R18
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R19
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R20
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R21
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R22
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R23
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R24
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R25
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R26
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R30
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R31
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R32
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R33
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R35
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R36
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R37
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component R38
+ R?
+ SM0603
+ SM0805
+ R?-*
+ SM1206
+$endlist
+$component U3
+ 28DIP-ELL600
+ 28dip600
+$endlist
+$endfootprintlist
+}
