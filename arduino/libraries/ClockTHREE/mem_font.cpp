@@ -3,7 +3,7 @@
 #include "mem_font.h"
 #include "ClockTHREE.h"
 
-static prog_char font8x7[] PROGMEM  = {
+static const prog_char font8x7[] PROGMEM  = {
   0b00000000, //
   0b00000000, //
   0b00000000, //
