@@ -8,7 +8,7 @@
  *    Twenty-Four hour word clock in English.  *     *    Military time. *     *    Thirteen - Nineteen share "teen"  *     *    Twentyfive has no hyphen *     *    Twenty-one through Twenty-four not hyphenated
  * 
  */
-static uint8_t WORDS[] PROGMEM = {
+static const uint8_t WORDS[] PROGMEM = {
      32, // # words
       0,  0,  3,       3,  0,  3,       6,  0,  5,       0,  1,  4,     // words
       4,  1,  4,       8,  1,  3,      11,  1,  5,       0,  2,  5,     // words
@@ -20,7 +20,7 @@ static uint8_t WORDS[] PROGMEM = {
       6,  7,  5,       0,  0,  0,       0,  0,  0,       0,  0,  0,     // words
 };
 
-static uint8_t DISPLAYS[] PROGMEM = {
+static const uint8_t DISPLAYS[] PROGMEM = {
    4, // number of bytes per state
 //                                               f    
 //                    te             t        ftti    
@@ -319,9 +319,9 @@ static uint8_t DISPLAYS[] PROGMEM = {
     0b00000000, 0b00000000, 0b01001001, 0b00010000, 
     };
 // Minutes hack constants
-static uint32_t MINUTE_LEDS[] PROGMEM = {
+static const uint32_t MINUTE_LEDS[] PROGMEM = {
   // n_minute_state, n_minute_led,        led0, led2,           led3,           led4...
                   0,            0, 
 };
-static uint32_t MINUTES_HACK[] PROGMEM = {
+static const uint32_t MINUTES_HACK[] PROGMEM = {
 };

@@ -8,7 +8,7 @@
  *    German time as it is spoken in Switzerland, with minute hack
  * 
  */
-static uint8_t WORDS[] PROGMEM = {
+static const uint8_t WORDS[] PROGMEM = {
      24, // # words
       0,  0,  2,       3,  0,  3,       7,  0,  4,      11,  0,  4,     // words
       4,  1,  7,       0,  2,  7,       8,  2,  3,      12,  2,  4,     // words
@@ -18,13 +18,13 @@ static uint8_t WORDS[] PROGMEM = {
       4,  6,  3,       7,  6,  5,      13,  6,  3,       0,  0,  0,     // words
 };
 
-static uint8_t DISPLAYS[] PROGMEM = {
+static const uint8_t DISPLAYS[] PROGMEM = {
    3, // number of bytes per state
 //      zv                                
 //      wi                      z    s    
 //      ae f      sf            w    i    
-//    n nrzÃ      eÃvdze h      Ã znae    
-//    avzte¼i     c¼irwiea     u¶eeecb    
+//    n nrzï¿½      eï¿½vdze h      ï¿½ znae    
+//    avzteï¿½i     cï¿½irwiea     uï¿½eeecb    
 //    coiehnse    hneeenil     hllhuhe    
 //    hrglnfts    sfriisnb     rffnntn    
     0b00000011, 0b00000000, 0b01100000, 
@@ -317,13 +317,13 @@ static uint8_t DISPLAYS[] PROGMEM = {
     0b01000111, 0b00000000, 0b00100000, 
     };
 // Minutes hack constants
-static uint32_t MINUTE_LEDS[] PROGMEM = {
+static const uint32_t MINUTE_LEDS[] PROGMEM = {
   // n_minute_state, n_minute_led,        led0, led2,           led3,           led4...
                   5,           16, 
     0x70, 0x71, 0x72, 0x73, 0x74, 0x75, 0x76, 0x77, 
     0x78, 0x79, 0x7a, 0x7b, 0x7c, 0x7d, 0x7e, 0x7f, 
 };
-static uint32_t MINUTES_HACK[] PROGMEM = {
+static const uint32_t MINUTES_HACK[] PROGMEM = {
     0b0000000000000000,
     0b0000000001000000,
     0b0000000010000000,

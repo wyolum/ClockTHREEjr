@@ -8,7 +8,7 @@
  *    
  * 
  */
-static uint8_t WORDS[] PROGMEM = {
+static const uint8_t WORDS[] PROGMEM = {
      24, // # words
       0,  0,  2,       3,  0,  3,       7,  0,  4,      11,  0,  4,     // words
       0,  1,  4,       4,  1,  7,       0,  2,  7,       8,  2,  3,     // words
@@ -18,13 +18,13 @@ static uint8_t WORDS[] PROGMEM = {
      11,  6,  4,       1,  7,  3,       5,  7,  5,      13,  7,  3,     // words
 };
 
-static uint8_t DISPLAYS[] PROGMEM = {
+static const uint8_t DISPLAYS[] PROGMEM = {
    3, // number of bytes per state
 //     zv                                 
 //     wi                      z    s     
 //     ae  f      f            w    is    
-//     nrdzÃ      uvdze hn     Ã znaee    
-//    vztre¼i     eirwieaa    u¶eeecbc    
+//     nrdzï¿½      uvdze hn     ï¿½ znaee    
+//    vztreï¿½i     eirwieaa    uï¿½eeecbc    
 //    oieehnse    neeenilc    hllhuheh    
 //    rglinfts    friisnbh    rffnntns    
     0b00000011, 0b00000000, 0b11000000, 
@@ -317,9 +317,9 @@ static uint8_t DISPLAYS[] PROGMEM = {
     0b10000111, 0b00000000, 0b01000000, 
     };
 // Minutes hack constants
-static uint32_t MINUTE_LEDS[] PROGMEM = {
+static const uint32_t MINUTE_LEDS[] PROGMEM = {
   // n_minute_state, n_minute_led,        led0, led2,           led3,           led4...
                   0,            0, 
 };
-static uint32_t MINUTES_HACK[] PROGMEM = {
+static const uint32_t MINUTES_HACK[] PROGMEM = {
 };
