@@ -1,0 +1,8 @@
+### Module positions - created on Wed Jul 29 18:10:49 2015 ###
+### Printed by Pcbnew version kicad (2015-07-01 BZR 5850)-product
+## Unit = inches, Angle = deg.
+## Side : top
+# Ref    Val                  Package         PosX       PosY        Rot     Side
+U1       STP8DP05         SOIC-16_3.9x9.9m    1.5354    -1.0630      90.0    top
+U2       STP16DP05        DIP-24_600_ELL      1.6142    -1.0630       0.0    top
+## End
