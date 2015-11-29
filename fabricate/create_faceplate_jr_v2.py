@@ -49,6 +49,17 @@ THEMORNINGNIGHT
 AFTERNOONEVENING
 '''
 
+french_v2 = '''
+ilxestqunequatre
+deuxtroiscinqsix
+septhuitneufdixj
+onzevisarqheures
+midiminuitmmoins
+etzlemquartdixrt
+vingt-cinqtdemie
+dusmatinduzsoiru
+'''
+
 class Image:
     def __init__(self, filename, x, y, w=None, h=None):
         self.filename = filename
@@ -496,16 +507,26 @@ def makeGlam():
 if __name__ == '__main__':
     create_backplate()
     create_baffles()
-    add_font('Kranky')
-    add_font('JosefinSans-Regular')    
+    # add_font('Kranky')
+    # add_font('JosefinSans-Regular')    
+    font = 'SourceSerifPro-Regular' ## compare to Times
     font = 'JosefinSans-Regular'
-    create_faceplate('%s_lower_v2' % font, english_v3, lower, font, 35, 
-                     reverse=True,
-                     color=None)
+    font = 'PT_Serif-Web-Regular'
+    fontsize=30
+    styles = {'english_v3':english_v3,
+              'french_v2': french_v2}
+    style = 'french_v2'
+    # style = 'english_v3'
+    if not add_font(font):
+        raise ValueError("cant load font %s" % font)
+    create_faceplate('%s_%s_lower_v2' % (style, font), styles[style], lower, font, fontsize, 
+                     reverse=False,
+                     color=None,
+                     baffles=False)
     if False: ## test a single font
         add_font('plantin', 'fonts/CustomerFonts/plantin.ttf')
-        create_faceplate('eng_plantin_lower_v3', english_v3, lower, 'plantin', 35, False,
+        create_faceplate('eng_plantin_lower_v3', english_v3, lower, 'plantin', fontsize, False,
                          color=None)
-        create_faceplate('eng_plantin_lower_v3_blk_', english_v3, lower, 'plantin', 35, False,
+        create_faceplate('eng_plantin_lower_v3_blk_', english_v3, lower, 'plantin', fontsize, False,
                          color=black, showtime=True)
 
