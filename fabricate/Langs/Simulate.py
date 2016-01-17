@@ -249,7 +249,7 @@ def tohtml(rgb):
     return '#%02x%02x%02x' % (r, g, b)
 
 class ClockTHREEjr:
-    def __init__(self, wtf, font=('Orbitron', 20), save_images=False, dt=300, bg_color="#009900"):
+    def __init__(self, wtf, font=('Orbitron', 20), save_images=False, dt=300, bg_color="#000000"):
         # def simulate(csvfile, font=('Kranky', 20)):
         self.display_second = 86400 #  - 300 * 4
         self.update_step = dt

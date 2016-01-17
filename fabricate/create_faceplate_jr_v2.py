@@ -34,7 +34,7 @@ PASTOBTWONEIGHTA
 THREELEVENSIXTEN
 FOURFIVESEVENINE
 TWELVELATMINFTHE
-MIDNIGHTMORNINGJ
+MIDNIGHTMORNINGQ
 AFTERNOONEVENING
 '''
 
@@ -59,7 +59,26 @@ etzlemquartdixrt
 vingt-cinqtdemie
 dusmatinduzsoiru
 '''
-
+german_v3 = '''
+esxistrfünfzehny
+dreiviertelwyoam
+zwanzigyvorcnach
+nhalbdeinsfzweio
+dreitviersfünfdp
+sechsasiebenhlum
+cachtaneunbzehnj
+oelflzwölfamyuhr
+'''
+german_v3 = '''
+esxistrfunfzehny
+dreiviertelwyoam
+zwanzigyvorcnach
+nhalbdeinsfzweio
+dreitviersfunfdp
+sechsasiebenhlum
+cachtaneunbzehnj
+oelflzwolfamyuhr
+'''
 class Image:
     def __init__(self, filename, x, y, w=None, h=None):
         self.filename = filename
@@ -244,7 +263,7 @@ def create_faceplate(basename, style, case, font, fontsize, reverse=True, color=
     encName = 'winansi'
     encName = 'utf-8'
     decoder = codecs.lookup(encName)[1]
-    def decodeFunc(txt):
+    def decodeFunc(txt): ### not getting umlauts!
         if txt is None:
             return ' '
         else:
@@ -255,6 +274,7 @@ def create_faceplate(basename, style, case, font, fontsize, reverse=True, color=
         else:
             return txt
     lines = [[decodeFunc(case(char)) for char in line] for line in lines]
+    print 'Layout:'
     print '\n'.join([''.join(l) for l in lines])
 ################################################################################
 
@@ -510,19 +530,28 @@ if __name__ == '__main__':
     # add_font('Kranky')
     # add_font('JosefinSans-Regular')    
     font = 'SourceSerifPro-Regular' ## compare to Times
-    font = 'JosefinSans-Regular'
     font = 'PT_Serif-Web-Regular'
+    font = 'OpenSans-Light'
+    font = 'Ubuntu-Regular'
+    font = 'JosefinSans-Regular'
     fontsize=30
-    styles = {'english_v3':english_v3,
-              'french_v2': french_v2}
+    styles = {'english_v3': english_v3,
+              'french_v2': french_v2,
+              'german_v3': german_v3
+    }
+    cases = {'lower': lower,
+             'upper': upper}
     style = 'french_v2'
-    # style = 'english_v3'
+    style = 'english_v3'
+    style = 'german_v3'
+    case = 'upper'
+
     if not add_font(font):
         raise ValueError("cant load font %s" % font)
-    create_faceplate('%s_%s_lower_v2' % (style, font), styles[style], lower, font, fontsize, 
-                     reverse=False,
+    create_faceplate('%s_%s_%s_v2' % (style, font, case), styles[style], cases[case], font, fontsize, 
+                     reverse=True,
                      color=None,
-                     baffles=False)
+                     baffles=True)
     if False: ## test a single font
         add_font('plantin', 'fonts/CustomerFonts/plantin.ttf')
         create_faceplate('eng_plantin_lower_v3', english_v3, lower, 'plantin', fontsize, False,
