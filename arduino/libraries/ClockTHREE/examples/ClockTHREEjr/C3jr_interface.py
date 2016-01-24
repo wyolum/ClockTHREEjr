@@ -79,7 +79,7 @@ class Struct:
         return Struct(**out)
 
 const = {'MAX_EEPROM_ADDR':1023}
-c_files = ['ClockTHREE_04.ino']
+c_files = glob.glob('*.ino')
 c_files.extend(glob.glob("*.h"))
 for file in c_files:
     next = read_constants(file)
