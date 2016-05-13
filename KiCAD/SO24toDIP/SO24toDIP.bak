@@ -1,0 +1,238 @@
+EESchema Schematic File Version 2
+LIBS:C3Jr_v2
+LIBS:power
+LIBS:device
+LIBS:transistors
+LIBS:conn
+LIBS:linear
+LIBS:regul
+LIBS:74xx
+LIBS:cmos4000
+LIBS:adc-dac
+LIBS:memory
+LIBS:xilinx
+LIBS:microcontrollers
+LIBS:dsp
+LIBS:microchip
+LIBS:analog_switches
+LIBS:motorola
+LIBS:texas
+LIBS:intel
+LIBS:audio
+LIBS:interface
+LIBS:digital-audio
+LIBS:philips
+LIBS:display
+LIBS:cypress
+LIBS:siliconi
+LIBS:opto
+LIBS:atmel
+LIBS:contrib
+LIBS:valves
+EELAYER 25 0
+EELAYER END
+$Descr A4 11693 8268
+encoding utf-8
+Sheet 1 1
+Title "SOIC 16 to DIP 16 converter"
+Date "2015-07-29"
+Rev "1"
+Comp "WyoLum"
+Comment1 ""
+Comment2 ""
+Comment3 ""
+Comment4 ""
+$EndDescr
+$Comp
+L STP8DP05 U1
+U 1 1 55B8BE11
+P 6425 2500
+F 0 "U1" H 6125 2350 60  0000 C CNN
+F 1 "STP8DP05" H 6375 3450 60  0000 C CNN
+F 2 "soic2dip_libs:SOIC-16_3.9x9.9mm_Pitch1.27mm" H 6425 2500 60  0001 C CNN
+F 3 "" H 6425 2500 60  0000 C CNN
+	1    6425 2500
+	1    0    0    -1  
+$EndComp
+$Comp
+L STP16DP05 U2
+U 1 1 55B8BE56
+P 6425 4425
+F 0 "U2" H 6175 3575 60  0000 C CNN
+F 1 "STP16DP05" H 6375 5375 60  0000 C CNN
+F 2 "soic2dip_libs:DIP-24_600_ELL" H 6425 4425 60  0001 C CNN
+F 3 "" H 6425 4425 60  0000 C CNN
+	1    6425 4425
+	1    0    0    -1  
+$EndComp
+Wire Wire Line
+	5775 1700 5575 1700
+Wire Wire Line
+	5575 1700 5575 3625
+Wire Wire Line
+	5575 3625 5775 3625
+Wire Wire Line
+	5775 2200 5175 2200
+Wire Wire Line
+	5175 2200 5175 4625
+Wire Wire Line
+	5175 4625 5775 4625
+Wire Wire Line
+	5775 1800 5475 1800
+Wire Wire Line
+	5475 1800 5475 3725
+Wire Wire Line
+	5475 3725 5775 3725
+Wire Wire Line
+	5775 1900 5375 1900
+Wire Wire Line
+	5375 1900 5375 3825
+Wire Wire Line
+	5375 3825 5775 3825
+Wire Wire Line
+	7025 1800 7275 1800
+Wire Wire Line
+	7275 1800 7275 3725
+Wire Wire Line
+	7275 3725 7025 3725
+Wire Wire Line
+	7025 1900 7375 1900
+Wire Wire Line
+	7375 1900 7375 3825
+Wire Wire Line
+	7375 3825 7025 3825
+Wire Wire Line
+	7025 2000 7475 2000
+Wire Wire Line
+	7475 2000 7475 3925
+Wire Wire Line
+	7475 3925 7025 3925
+Wire Wire Line
+	7025 2100 7575 2100
+Wire Wire Line
+	7575 2100 7575 4025
+Wire Wire Line
+	7575 4025 7025 4025
+Wire Wire Line
+	7025 2200 7675 2200
+Wire Wire Line
+	7675 2200 7675 4125
+Wire Wire Line
+	7675 4125 7025 4125
+Wire Wire Line
+	7025 2300 7775 2300
+Wire Wire Line
+	7775 2300 7775 4225
+Wire Wire Line
+	7775 4225 7025 4225
+Wire Wire Line
+	7025 2400 7875 2400
+Wire Wire Line
+	7875 2400 7875 4325
+Wire Wire Line
+	7875 4325 7025 4325
+Wire Wire Line
+	7025 2500 7975 2500
+Wire Wire Line
+	7975 2500 7975 4425
+Wire Wire Line
+	7975 4425 7025 4425
+Wire Wire Line
+	5775 2350 5075 2350
+Wire Wire Line
+	5075 2350 5075 4825
+Wire Wire Line
+	5075 4825 5775 4825
+Wire Wire Line
+	5775 2050 5275 2050
+Wire Wire Line
+	5275 2050 5275 4025
+Wire Wire Line
+	5275 4025 5775 4025
+Wire Wire Line
+	7025 1700 7175 1700
+Wire Wire Line
+	7175 1700 7175 3625
+Wire Wire Line
+	7175 3625 7025 3625
+Wire Wire Line
+	5775 2500 4975 2500
+Wire Wire Line
+	4975 2500 4975 5025
+Wire Wire Line
+	4975 5025 5775 5025
+NoConn ~ 7025 4525
+NoConn ~ 7025 4625
+NoConn ~ 7025 4725
+NoConn ~ 7025 4825
+NoConn ~ 7025 4925
+NoConn ~ 7025 5025
+NoConn ~ 7025 5125
+NoConn ~ 7025 5225
+Text Label 5575 1700 0    40   ~ 0
+SDI
+Text Label 5475 1800 0    40   ~ 0
+CLK
+Text Label 5375 1900 0    40   ~ 0
+LE-DM1
+Text Label 5275 2050 0    40   ~ 0
+VCC
+Text Label 5175 2200 0    40   ~ 0
+GND
+Text Label 5075 2350 0    40   ~ 0
+OE-DM2
+Text Label 4975 2500 0    40   ~ 0
+R_EXT
+Text Label 7175 1700 0    40   ~ 0
+SD0
+Text Label 7275 1800 0    40   ~ 0
+OUT0
+Text Label 7375 1900 0    40   ~ 0
+OUT1
+Text Label 7475 2000 0    40   ~ 0
+OUT2
+Text Label 7575 2100 0    40   ~ 0
+OUT3
+Text Label 7675 2200 0    40   ~ 0
+OUT4
+Text Label 7775 2300 0    40   ~ 0
+OUT5
+Text Label 7875 2400 0    40   ~ 0
+OUT6
+Text Label 7975 2500 0    40   ~ 0
+OUT7
+$Comp
+L PWR_FLAG #FLG01
+U 1 1 55B8C5BC
+P 3300 2050
+F 0 "#FLG01" H 3300 2145 50  0001 C CNN
+F 1 "PWR_FLAG" H 3300 2230 50  0000 C CNN
+F 2 "" H 3300 2050 60  0000 C CNN
+F 3 "" H 3300 2050 60  0000 C CNN
+	1    3300 2050
+	1    0    0    -1  
+$EndComp
+$Comp
+L PWR_FLAG #FLG02
+U 1 1 55B8C5DE
+P 3300 2200
+F 0 "#FLG02" H 3300 2295 50  0001 C CNN
+F 1 "PWR_FLAG" H 3300 2380 50  0000 C CNN
+F 2 "" H 3300 2200 60  0000 C CNN
+F 3 "" H 3300 2200 60  0000 C CNN
+	1    3300 2200
+	-1   0    0    1   
+$EndComp
+Wire Wire Line
+	3300 2050 3300 2075
+Wire Wire Line
+	3300 2075 3775 2075
+Wire Wire Line
+	3300 2200 3300 2175
+Wire Wire Line
+	3300 2175 3775 2175
+Text Label 3775 2075 0    40   ~ 0
+VCC
+Text Label 3775 2175 0    40   ~ 0
+GND
+$EndSCHEMATC

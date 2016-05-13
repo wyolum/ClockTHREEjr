@@ -1,0 +1,19 @@
+Cmp-Mod V01 Created by PcbNew   date = Wed Jul 29 18:11:05 2015
+
+BeginCmp
+TimeStamp = 55B9B489
+Path = /55B8BE11
+Reference = U1;
+ValeurCmp = STP8DP05;
+IdModule  = soic2dip_libs:SOIC-16_3.9x9.9mm_Pitch1.27mm;
+EndCmp
+
+BeginCmp
+TimeStamp = 55B9B4AC
+Path = /55B8BE56
+Reference = U2;
+ValeurCmp = STP16DP05;
+IdModule  = soic2dip_libs:DIP-24_600_ELL;
+EndCmp
+
+EndListe

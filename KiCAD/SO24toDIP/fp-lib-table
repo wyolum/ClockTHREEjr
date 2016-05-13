@@ -1,0 +1,3 @@
+(fp_lib_table
+  (lib (name soic2dip_libs)(type KiCad)(uri "$(KIPRJMOD)/soic2dip_libs.pretty")(options "")(descr ""))
+)
