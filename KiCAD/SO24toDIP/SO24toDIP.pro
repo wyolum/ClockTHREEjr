@@ -1,4 +1,4 @@
-update=Fri May 13 17:27:14 2016
+update=Fri May 13 22:22:06 2016
 version=1
 last_client=kicad
 [pcbnew]
@@ -23,21 +23,21 @@ ModuleOutlineThickness=0.150000000000
 [cvpcb]
 version=1
 NetIExt=net
-[schematic_editor]
-version=1
-PageLayoutDescrFile=
-PlotDirectoryName=soic2dip_pdf/
-SubpartIdSeparator=0
-SubpartFirstId=65
-NetFmtName=Pcbnew
-SpiceForceRefPrefix=0
-SpiceUseNetNumbers=0
-LabSize=40
 [eeschema]
 version=1
 LibDir=
 [eeschema/libraries]
 LibName1=SO24toDIP_libs/SO24toDIP
 LibName2=power
+[schematic_editor]
+version=1
+PageLayoutDescrFile=
+PlotDirectoryName=SO24toDIP_pdf/
+SubpartIdSeparator=0
+SubpartFirstId=65
+NetFmtName=Pcbnew
+SpiceForceRefPrefix=0
+SpiceUseNetNumbers=0
+LabSize=40
 [general]
 version=1
