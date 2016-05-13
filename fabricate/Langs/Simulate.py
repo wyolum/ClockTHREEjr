@@ -244,8 +244,12 @@ dy = .7 * my_inch
 def nop():
     pass
 
+def tohtml(rgb):
+    r, g, b = rgb
+    return '#%02x%02x%02x' % (r, g, b)
+
 class ClockTHREEjr:
-    def __init__(self, wtf, font=('Orbitron', 20), save_images=False, dt=300):
+    def __init__(self, wtf, font=('Orbitron', 20), save_images=False, dt=300, bg_color="#000000"):
         # def simulate(csvfile, font=('Kranky', 20)):
         self.display_second = 86400 #  - 300 * 4
         self.update_step = dt
@@ -256,6 +260,15 @@ class ClockTHREEjr:
         self.minimum_update_time = .25
         self.save_images = save_images
         self.img_num = 0
+        self.bg_color = bg_color
+        self.on = (int(ON[1:3], 16), 
+                   int(ON[3:5], 16), 
+                   int(ON[5:7], 16))
+        keep = .8
+        self.off = (int(int(self.bg_color[1:3], 16) * keep + self.on[0] * (1 - keep)),
+                    int(int(self.bg_color[3:5], 16) * keep + self.on[1] * (1 - keep)),
+                    int(int(self.bg_color[5:7], 16) * keep + self.on[2] * (1 - keep)))
+
         if self.save_images:
             self.movie_dir = wtf[:-4]
             print 'saving images in', self.movie_dir
@@ -267,9 +280,9 @@ class ClockTHREEjr:
         labels = []
 
         tk = Tk()
-        tk.tk_setPalette('#000000')
+        tk.tk_setPalette(self.bg_color)
         tk.title('ClockTHREEjr')
-        self.r = Frame(tk, background='#000000')
+        self.r = Frame(tk, background=self.bg_color)
         self.can = Canvas(self.r, width=9*my_inch, height=9*my_inch)
         self.can.bind("<Button-3>", self.time_forward)
         self.can.bind("<Button-1>", self.time_backward)
@@ -278,19 +291,21 @@ class ClockTHREEjr:
         self.tk = tk
         self.makemenu()
         size = int(my_inch / 25. * 10.)
-        self.did = self.can.create_text(XOFF + 9 * dx, YOFF -1 * dy, text="00:00:00", font=('Digital-7 Mono', size), fill=ON)
+        self.did = self.can.create_text(XOFF + 9 * dx, YOFF -1 * dy, text="00:00:00", font=('Digital-7 Mono', size), fill=tohtml(self.on))
+        fontname = 'Times'
         self.can.create_text(XOFF + 7 * dx, 
-                             YOFF + 9 * dy, text=self.wtf[:-4], font=('Times', 10), fill=ON)
+                             YOFF + 9 * dy, text='%s:%s' %(self.wtf[:-4], fontname), font=(fontname, 10), fill=tohtml(self.on))
         all_labels_off = {}
         for row in range(self.N_ROW):
             for col in range(self.N_COL):
-                all_labels_off[row, col] = self.can.create_text(XOFF + dx * col, YOFF + dy * row, text=self.letters[row][col], font=font, fill=OFF)
+                # all_labels_off[row, col] = self.can.create_text(XOFF + dx * col, YOFF + dy * row, text=self.letters[row][col], font=font, fill=OFF)
+                all_labels_off[row, col] = self.can.create_text(XOFF + dx * col, YOFF + dy * row, text=self.letters[row][col], font=font, fill=tohtml(self.off))
         all_labels_on = {}
         self.labels_on = {}
 
         for i in range(self.N_ROW):
             for j in range(self.N_COL):
-                all_labels_on[i, j] = self.can.create_text(XOFF + dx * j, YOFF + dy * i, text=self.letters[i][j], font=font, fill=ON)
+                all_labels_on[i, j] = self.can.create_text(XOFF + dx * j, YOFF + dy * i, text=self.letters[i][j], font=font, fill=tohtml(self.on))
                 self.can.itemconfigure(all_labels_on[i, j], state='hidden')
         self.can.pack()
         # display = Label(r, text='00:00', font=('DS-Digital', 20))
