@@ -33,10 +33,10 @@
 // #include "dutch_v1.h"
 // #include "english_v0.h"
 // #include "english_v2.h"
-// #include "english_v3.h"
+#include "english_v3.h"
 // #include "french_v1.h"
 // #include "german_v1.h"
-#include "german_v3.h"
+// #include "german_v3.h"
 // #include "german_v5.h"
 // #include "hebrew_v1.h"
 
@@ -1375,7 +1375,7 @@ PROGMEM  prog_uint32_t DST[]  = {
 #endif
 
 #ifdef USE_EURO_DST
-PROGMEM  prog_uint32_t DST[]  = {
+PROGMEM const uint32_t DST[]  = {
 //    start,       stop,    //
   954050400,  972799200,    // 2000-03-26 01:00:00 -- 2000-10-29 01:00:00
   985500000, 1004248800,    // 2001-03-25 01:00:00 -- 2001-10-28 01:00:00
