@@ -27,10 +27,10 @@
 #include "SPI.h"
 
 
-// #include "dutch_v1.h"
+#include "dutch_v1.h"
 // #include "english_v0.h"
 // #include "english_v2.h"
-#include "english_v3.h"
+// #include "english_v3.h"
 // #include "english_v4.h"
 // #include "french_v1.h"
 // #include "german_v1.h"
@@ -1274,7 +1274,7 @@ bool testRTC(){
 }
 
 #ifdef USE_USA_DST
-PROGMEM const prog_uint32_t DST[]  = {
+PROGMEM const uint32_t DST[]  = {
 //       start,       stop,      // year
      952840800,  973404000,      // 2000
      984290400, 1004853600,      // 2001
