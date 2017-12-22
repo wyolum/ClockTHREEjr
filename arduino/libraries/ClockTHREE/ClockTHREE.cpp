@@ -113,6 +113,11 @@ void ClockTHREE::refresh(int n_hold){
     uint32_t dat32; 
     uint8_t dat8[4];
   } Column;
+  const uint8_t N_PRIME = 45;
+  uint8_t primes[N_PRIME] {3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53,
+      59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137,
+      139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199};
+  uint8_t mycol; //## used to randomize columns to mitigate led ghosting
   
   if(display != NULL){
     for(int hold_i = 0; hold_i < n_hold; hold_i++){
@@ -121,9 +126,11 @@ void ClockTHREE::refresh(int n_hold){
       col_j = 0;
       _delay(10);
       while (col_j < N_COL){
+	//mycol = col_j; // don't re-order column display
+	mycol = (col_j * primes[hold_i % N_PRIME]) % N_COL;
 	// Column.dat32 = RGBW_MASKS[rgb_i] & display[col_j];
 	if((hold_i - col_j) % dim == 0){
-	  Column.dat32 = display[15 - col_j];
+	  Column.dat32 = display[15 - mycol];
 	}
 	else{
 	  Column.dat32 = 0;
@@ -133,10 +140,11 @@ void ClockTHREE::refresh(int n_hold){
 	SPI.transfer(Column.dat8[2]);
 	SPI.transfer(Column.dat8[1]);
 	PORTC |= 0b00001000; // Disable col driver 
-	SPI.transfer(Column.dat8[0]);
+	SPI.transfer(Column.dat8[0]); // orig
 	PORTB |= 0b00000010; // Start latch pulse 
+	//SPI.transfer(Column.dat8[0]); // test
 	PORTB &= 0b11111101; // End latch pulse 
-	PORTD = (PORTD & 0b00001111) | (col_j << 4); //only impacts upper 4 bits of PORTD
+	PORTD = (PORTD & 0b00001111) | (mycol << 4); //only impacts upper 4 bits of PORTD
 	PORTC &= 0b11110111; // Enable col driver
 	_delay(my_delay);
 	col_j++;

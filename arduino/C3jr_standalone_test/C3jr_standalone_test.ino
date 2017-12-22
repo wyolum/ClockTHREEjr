@@ -104,30 +104,36 @@ void cols(){
 }
 
 void loop(){
-  // BY ROWS
-  for(int row_i=0; row_i < 8; row_i++){
-    for(int col_j=0; col_j < 16; col_j++){
+  // BY COLS
+  for(int ii = 0; ii < 8; ii++){
+    setPixel(ii, ii, 1);
+  }
+  refresh(3000);
+  return;
+  for(int col_j=1; col_j < 16; col_j++){
+    for(int row_i=0; row_i < 8; row_i++){
       setPixel(col_j, row_i, 1);
-      refresh(30);
+      refresh(300);
+      setPixel(col_j, row_i, 0);
     }
   }
-  // BY ROWS
-  for(int row_i=0; row_i < 8; row_i++){
-    for(int col_j=0; col_j < 16; col_j++){
+  // BY COLS
+  for(int col_j=0; col_j < 16; col_j++){
+    for(int row_i=0; row_i < 8; row_i++){
       setPixel(col_j, row_i, 0);
       refresh(30);
     }
   }
-  // BY COLS
-  for(int col_j=0; col_j < 16; col_j++){
-    for(int row_i=0; row_i < 8; row_i++){
+  // BY ROWS
+  for(int row_i=0; row_i < 8; row_i++){
+    for(int col_j=0; col_j < 16; col_j++){
       setPixel(col_j, row_i, 1);
       refresh(30);
     }
   }
   // BY COLS
-  for(int col_j=0; col_j < 16; col_j++){
-    for(int row_i=0; row_i < 8; row_i++){
+  for(int row_i=0; row_i < 8; row_i++){
+    for(int col_j=0; col_j < 16; col_j++){
       setPixel(col_j, row_i, 0);
       refresh(30);
     }
@@ -219,27 +225,34 @@ void refresh(int n_hold){
     uint32_t dat32; 
     uint8_t dat8[4];
   } Column;
+  uint8_t primes[45] {3, 5, 7, 11, 13, 17, 19, 23, 29, 31, 37, 41, 43, 47, 53,
+      59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137,
+      139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199};
   
   if(display != NULL){
     for(int hold_i = 0; hold_i < n_hold; hold_i++){
       PORTC &= 0b11110111; // Enable col driver
       // for(col_j=0; col_j < N_COL; col_j++){
       col_j = 0;
-      _delay(10);
+      //_delay(10);
       while (col_j < N_COL){
+	uint8_t mycol = (col_j * primes[hold_i % 45]) % 16;
 	// Column.dat32 = RGBW_MASKS[rgb_i] & display[col_j];
-	Column.dat32 = display[15 - col_j];
+	// Column.dat32 = display[15 - col_j];
+	Column.dat32 = display[15 - mycol];
 	// transfer column to row drivers
+	//PORTC |= 0b00001000; // Disable col driver  TEST
 	SPI.transfer(Column.dat8[3]);
 	SPI.transfer(Column.dat8[2]);
 	SPI.transfer(Column.dat8[1]);
-	PORTC |= 0b00001000; // Disable col driver 
+	PORTC |= 0b00001000; // Disable col driver ORIG
 	SPI.transfer(Column.dat8[0]);
 	PORTB |= 0b00000010; // Start latch pulse 
 	PORTB &= 0b11111101; // End latch pulse 
 
-	PORTD = (PORTD & 0b00001111) | (col_j << 4); //only impacts upper 4 bits of PORTD
-	PORTC &= 0b11110111; // Enable col driver
+	//PORTD = (PORTD & 0b00001111) | (col_j << 4); //only impacts upper 4 bits of PORTD
+	PORTD = (PORTD & 0b00001111) | (mycol << 4); //only impacts upper 4 bits of PORTD
+	PORTC &= 0b11110111; // Enable col driver ORIG
 	_delay(my_delay);
 	col_j++;
       }
