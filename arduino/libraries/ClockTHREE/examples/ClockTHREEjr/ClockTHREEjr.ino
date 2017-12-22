@@ -1232,6 +1232,8 @@ void self_test(){
     }
   }
   while(true){
+    //c3.setPixel(5, 5, true);
+    //while(1) c3.refresh(100);
     state = !state;
     for(uint8_t i = 0; i < 8; i++){
       for(uint8_t j = 0; j < 16; j++){
