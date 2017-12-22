@@ -216,34 +216,34 @@ class MyPath:
         return max(l[0] for l in self.points)
     def toOpenScad(self, thickness, outfile, module_name=None, color=None):
         if module_name is not None:
-            print >> outfile, 'module %s(){' % module_name
+            print('module %s(){' % module_name, file=outfile)
         if color is not None:
-            print >> outfile, 'color([%s, %s, %s, %s])' % tuple(color)
+            print('color([%s, %s, %s, %s])' % tuple(color), file=outfile)
         if len(self.holes) > 0 or len(self.subtract) > 0:
-            print >> outfile, 'difference(){'
-        print >> outfile, '''\
+            print('difference(){', file=outfile)
+        print('''\
 linear_extrude(height=%s, center=true, convexity=10, twist=0)
-polygon(points=[''' % (thickness / self.UNIT)
+polygon(points=[''' % (thickness / self.UNIT), file=outfile)
         for x, y in self.points:
-            print >> outfile, '[%s, %s],' % (x / self.UNIT, y / self.UNIT)
-        print >> outfile, '],'
-        print >> outfile, 'paths=['
+            print('[%s, %s],' % (x / self.UNIT, y / self.UNIT), file=outfile)
+        print('],', file=outfile)
+        print('paths=[', file=outfile)
         for path in self.paths:
-            print >> outfile, '%s,' % path
-        print >> outfile, ']);'
+            print('%s,' % path, file=outfile)
+        print(']);', file=outfile)
 
         if len(self.holes) > 0 or len(self.subtract) > 0:
             for hole in self.holes:
                 x, y, r = hole
-                print >> outfile, 'translate(v=[%s, %s, %s])' % (x/self.UNIT, y/self.UNIT, -5*inch)
-                print >> outfile, 'cylinder(h=%s, r=%s, $fn=25);' % (10*inch, r / self.UNIT)
+                print('translate(v=[%s, %s, %s])' % (x/self.UNIT, y/self.UNIT, -5*inch), file=outfile)
+                print('cylinder(h=%s, r=%s, $fn=25);' % (10*inch, r / self.UNIT), file=outfile)
             for poly in self.subtract:
-                print >> outfile, '//subtract'
+                print('//subtract', file=outfile)
                 ## print >> outfile, 'translate(v=[0, 0, -%s])' % (thickness / self.UNIT)
                 poly.toOpenScad(thickness * 2, outfile)
-            print >> outfile, '}'
+            print('}', file=outfile)
         if module_name is not None:
-            print >> outfile, '}'
+            print('}', file=outfile)
     toScad = toOpenScad
     
 def MyPath__test__():
@@ -266,11 +266,11 @@ def MyPath__test__():
     can.showPage()
 
     can.save()
-    print 'wrote', filename
+    print('wrote', filename)
     scad_fn = 'test.scad'
     scad = open(scad_fn, 'w')
     locator.toOpenScad(baffle_thickness, scad)
-    print 'wrote', scad_fn
+    print('wrote', scad_fn)
 
 class Image:
     def __init__(self, filename, x, y, w=None, h=None):
@@ -354,7 +354,7 @@ def getKnob(scale=.25*inch, hole=False):
     knob.lineTo(0, 0)
     knob.scale(scale)
     if hole:
-        print 'hole'
+        print('hole')
         T = LASER_THICKNESS
         new_points = [knob.points[0][:], knob.points[1][:]]
         new_points[0][1] -= T / 2.
@@ -373,7 +373,7 @@ def getKnob(scale=.25*inch, hole=False):
         new_points[-1][-0] += T / 2.
         new_points.append(knob.points[-1][:])
         new_points[-1][1] -= T / 2
-        print len(new_points), len(knob.points)
+        print(len(new_points), len(knob.points))
         knob.points = new_points
     return knob
 

@@ -136,7 +136,6 @@ void ClockTHREE::refresh(int n_hold){
 	SPI.transfer(Column.dat8[0]);
 	PORTB |= 0b00000010; // Start latch pulse 
 	PORTB &= 0b11111101; // End latch pulse 
-
 	PORTD = (PORTD & 0b00001111) | (col_j << 4); //only impacts upper 4 bits of PORTD
 	PORTC &= 0b11110111; // Enable col driver
 	_delay(my_delay);
@@ -235,6 +234,7 @@ void ClockTHREE::refresh(int n_hold){
 // Gradually change display to new_display in over "steps" screens
 // return pointer to old display
 uint32_t *ClockTHREE::fadeto(uint32_t *new_display, uint32_t steps){
+  steps = 0; // TODO REMOVE THIS LINE
   uint32_t *old_display = display;
   for(double i = 1.; i < steps; i*= 1.04){
     setdisplay(new_display);

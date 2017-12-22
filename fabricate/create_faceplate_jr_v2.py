@@ -3,7 +3,6 @@ import string
 from string import *
 import os.path
 from random import choice
-import string
 from numpy import *
 import PIL.Image
 from reportlab.pdfgen import canvas
@@ -89,6 +88,16 @@ elftwaalfcuurf's
 ochtendsmiddagsa
 dpavondsnachtsjs'''
 
+spanish_v1 = '''
+ESONJLASUNACINCO
+DOSOCHOTRESNUEVE
+SEISIETEDIEZDOCE
+CUATRONCEGMENOSY
+ECINCODIEZCUARTO
+VEINTEVENTICINCO
+MEDIAPUNTOJDEILA
+MAÑANATARDENOCHE'''
+
 class Image:
     def __init__(self, filename, x, y, w=None, h=None):
         self.filename = filename
@@ -139,6 +148,12 @@ fontnames = ['HELVETICA-BOLD', 'Helvetica-Bold',
              'HELVETICA', 'Helvetica','Times-Roman','TIMES-ROMAN'
              ]
 
+def os_path_walk(directory, callback, args):
+    print(directory)
+    for root, dirs, files in os.walk(directory):
+        callback(args, root, files)
+    
+
 def add_font(fontname, path=None):
     fontname = fontname.upper()
     if fontname not in fontnames:
@@ -156,7 +171,7 @@ def add_font(fontname, path=None):
                             dest.close()
                         break
             for fontdir in fontpath:
-                os.path.walk(fontdir, addit, ())
+                os_path_walk(fontdir, addit, ())
                 if fontname in fontnames:
                     break
         else:
@@ -178,6 +193,11 @@ def outline(color=red):
     p.lineTo(0, 0)
     
     return p
+
+def lower(s):
+    return s.lower()
+def upper(s):
+    return s.upper()
 
 def new_canvas(basename):
     can = canvas.Canvas('%s/%sjr_%s.pdf' % (directory, basename, __version__),
@@ -218,7 +238,7 @@ def create_faceplate(basename, style, case, font, fontsize, reverse=True, color=
     #     can.drawCentredString(W / 2 + MARGIN, HEIGHT + 1.5 * MARGIN, "If you can read this, do not print!")
 
     if top:
-        print H  / inch
+        print(H  / inch)
         can.drawCentredString(WIDTH / 2 + MARGIN, HEIGHT - 1.3 * inch + MARGIN, top)
     if bottom:
         lines = bottom.splitlines()
@@ -244,7 +264,7 @@ def create_faceplate(basename, style, case, font, fontsize, reverse=True, color=
                 y = NIL_LED_Y + j * NIL_DY
                 can.rect(x, y, .1*inch, .2 * inch, fill=False)
 
-    print edgecolor == black
+    print(edgecolor == black)
     p = outline(color=edgecolor)
     if do_corner_holes:
         for hole in corner_holes:
@@ -284,8 +304,8 @@ def create_faceplate(basename, style, case, font, fontsize, reverse=True, color=
         else:
             return txt
     lines = [[decodeFunc(case(char)) for char in line] for line in lines]
-    print 'Layout:'
-    print '\n'.join([''.join(l) for l in lines])
+    print('Layout:')
+    print('\n'.join([''.join(l) for l in lines]))
 ################################################################################
 
     can.setFont(font, fontsize)
@@ -339,7 +359,7 @@ def create_faceplate(basename, style, case, font, fontsize, reverse=True, color=
     if save_can:
         can.showPage()
         can.save()
-        print 'wrote', can._filename
+        print('wrote', can._filename)
     try:
         can.restoreState()
     except:
@@ -451,7 +471,7 @@ def create_backplate():
 
 
     can.save()
-    print 'wrote', can._filename
+    print('wrote', can._filename)
 
 
 
@@ -510,7 +530,7 @@ def create_baffles():
 
     can.showPage()
     can.save()
-    print 'wrote', can._filename
+    print('wrote', can._filename)
 
 def makeGlam():
     add_all_fonts()
@@ -529,10 +549,10 @@ def makeGlam():
                 create_faceplate('english_v3 %s %s' % (font, case_str), english_v3, case, font, 35, False,
                                  color=black, can=can, showtime=True)
                 can.showPage()
-            except Exception, e:
+            except Exception as e:
                 pass
     can.save()
-    print 'wrote', can._filename
+    print('wrote', can._filename)
 
 if __name__ == '__main__':
     create_backplate()
@@ -549,7 +569,8 @@ if __name__ == '__main__':
     styles = {'english_v3': english_v3,
               'french_v2': french_v2,
               'german_v3': german_v3,
-              'dutch_v1': dutch_v1
+              'dutch_v1': dutch_v1,
+              'spanish_v1':spanish_v1
     }
     cases = {'lower': lower,
              'upper': upper}
@@ -557,6 +578,8 @@ if __name__ == '__main__':
     style = 'english_v3'
     style = 'german_v3'
     style = 'dutch_v1'
+    style = 'spanish_v1'
+    
     case = 'lower'
 
     if not add_font(font):

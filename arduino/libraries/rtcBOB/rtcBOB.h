@@ -5,7 +5,7 @@
 #define RTC_BOB_H
 
 #include <inttypes.h>
-#include "Time.h"
+#include "MyTime.h"
 #if defined(ARDUINO) && ARDUINO >= 100
 #include "Arduino.h"
 #define WIRE_WRITE(ptr,n_byte) Wire.write((uint8_t*)(ptr), (n_byte))

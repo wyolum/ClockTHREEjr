@@ -21,16 +21,16 @@
 #include <avr/pgmspace.h>
 #include <Wire.h>
 #include <string.h>
-#include "Time.h"
+#include "MyTime.h"
 #include "MsTimer2.h"
 #include "ClockTHREE.h"
 #include "SPI.h"
 
 
-#include "dutch_v1.h"
+//#include "dutch_v1.h"
 // #include "english_v0.h"
 // #include "english_v2.h"
-// #include "english_v3.h"
+#include "english_v3.h"
 // #include "english_v4.h"
 // #include "french_v1.h"
 // #include "german_v1.h"
@@ -45,7 +45,7 @@
 // #include "spanish_v1.h"
 
 // #define USE_NIL // comment out if speaker is installed, unless you are already deaf.
-#define USE_USA_DST // use standard USA dailight savings time rule
+// #define USE_USA_DST // use standard USA dailight savings time rule
 // #define USE_EURO_DST // use dailight savings time for europe (TJS)
 
 #include "mem_font.h"
