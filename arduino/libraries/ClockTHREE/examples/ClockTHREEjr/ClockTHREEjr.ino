@@ -1384,7 +1384,7 @@ PROGMEM const uint32_t DST[]  = {
 #endif
 
 #ifdef USE_EURO_DST
-PROGMEM const  prog_uint32_t DST[]  = {
+PROGMEM const  uint32_t DST[]  = {
 //    start,       stop,    //
   954050400,  972799200,    // 2000-03-26 01:00:00 -- 2000-10-29 01:00:00
   985500000, 1004248800,    // 2001-03-25 01:00:00 -- 2001-10-28 01:00:00
