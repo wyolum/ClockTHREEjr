@@ -118,7 +118,7 @@ void ClockTHREE::refresh(int n_hold){
       59, 61, 67, 71, 73, 79, 83, 89, 97, 101, 103, 107, 109, 113, 127, 131, 137,
       139, 149, 151, 157, 163, 167, 173, 179, 181, 191, 193, 197, 199};
   uint8_t mycol; //## used to randomize columns to mitigate led ghosting
-  
+  uint8_t prime_idx = random(0, N_PRIME);
   if(display != NULL){
     for(int hold_i = 0; hold_i < n_hold; hold_i++){
       PORTC &= 0b11110111; // Enable col driver
@@ -127,7 +127,7 @@ void ClockTHREE::refresh(int n_hold){
       _delay(10);
       while (col_j < N_COL){
 	//mycol = col_j; // don't re-order column display
-	mycol = (col_j * primes[hold_i % N_PRIME]) % N_COL;
+	mycol = (col_j * primes[(hold_i + prime_idx) % N_PRIME]) % N_COL; // reorder column display
 	// Column.dat32 = RGBW_MASKS[rgb_i] & display[col_j];
 	if((hold_i - col_j) % dim == 0){
 	  Column.dat32 = display[15 - mycol];
@@ -136,9 +136,9 @@ void ClockTHREE::refresh(int n_hold){
 	  Column.dat32 = 0;
 	}
 	// transfer column to row drivers
-	SPI.transfer(Column.dat8[3]);
-	SPI.transfer(Column.dat8[2]);
-	SPI.transfer(Column.dat8[1]);
+	//SPI.transfer(Column.dat8[3]);
+	//SPI.transfer(Column.dat8[2]);
+	//SPI.transfer(Column.dat8[1]);
 	PORTC |= 0b00001000; // Disable col driver 
 	SPI.transfer(Column.dat8[0]); // orig
 	PORTB |= 0b00000010; // Start latch pulse 
