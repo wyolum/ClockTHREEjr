@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 clockthreejr
 ============
 
@@ -25,5 +24,4 @@ To program your ClockTHREEjr,
    c. Comment out both lines if NO daylight savigs time should be used.
    NOTE: at most one of USE_USA_DST or USE_EURO_DST shoud be defined at the same time
 6. You should select the Duemillinove from the Tools->Boards menu.
-7. Upload the new code to ClockTHREEjr using an FTDI cable.  Please double check the lable on the back to ensure you install the cable correctly.  
->>>>>>> d834d9a5b12d1857c04a3f4544fdb18979f706c3
+7. Upload the new code to ClockTHREEjr using an FTDI cable.  Please double check the lable on the back to ensure you install the cable correctly.
