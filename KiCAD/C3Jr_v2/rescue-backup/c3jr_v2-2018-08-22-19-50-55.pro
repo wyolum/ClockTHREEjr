@@ -1,4 +1,4 @@
-update=Wed Aug 22 19:51:05 2018
+update=Wed Jul 29 13:48:24 2015
 last_client=kicad
 [cvpcb]
 version=1
@@ -29,5 +29,10 @@ LibName1=C3Jr_v2_libs/C3Jr_v2_parts
 version=1
 [eeschema]
 version=1
-LibDir=
+LibDir=D:/Users/Anool/Downloads/KiCAD/Libs/USB
+[eeschema/libraries]
+LibName1=c3jr_v2-rescue
+LibName2=C3Jr_v2_libs/C3Jr_v2
+LibName3=C3Jr_v2_libs/power
+LibName4=c3jr_v2-cache
 

@@ -1,0 +1,4 @@
+(sym_lib_table
+  (lib (name C3Jr_v2)(type Legacy)(uri ${KIPRJMOD}/C3Jr_v2_libs/C3Jr_v2.lib)(options "")(descr ""))
+  (lib (name power)(type Legacy)(uri ${KIPRJMOD}/C3Jr_v2_libs/power.lib)(options "")(descr ""))
+)
